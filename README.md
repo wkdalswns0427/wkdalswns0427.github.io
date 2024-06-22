@@ -1,1 +1,0 @@
-# wkdalswns0427.github.io
