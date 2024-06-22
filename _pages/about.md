@@ -1,12 +1,13 @@
 ---
 permalink: /about/
 title: "About Minjun"
-toc: true
+toc: false
 toc_sticky: true
 toc_label: "MYSELF"
 ---
 
-![image](/assets/logo.ico/profile2.jpg)
-{: .align-left}
+![image](/assets/logo.ico/profile.jpg){: width="250" height="250" .align-left}
 
-원하는 자기소개 상세 내용
+**I am a student with abundant experience, eager to learn more**
+<br>
+ds

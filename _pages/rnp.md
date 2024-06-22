@@ -1,8 +1,9 @@
 ---
 permalink: /rnp/
-title: "Research"
+title: "Research&Projects"
 toc: true
 toc_sticky: true
+toc_label: "Research&Projects"
 ---
 
 ## Bipedal Locomotion

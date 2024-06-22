@@ -1,7 +1,7 @@
 ---
 permalink: /achievements/
 title: "Achivements"
-toc: true
+toc: false
 toc_sticky: true
 ---
 

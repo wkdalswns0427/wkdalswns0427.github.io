@@ -3,6 +3,7 @@ permalink: /interests/
 title: "My Interests"
 toc: true
 toc_sticky: true
+toc_label: "My Interests"
 ---
 ## Robotics
 
