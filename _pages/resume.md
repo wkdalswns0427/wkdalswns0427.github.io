@@ -3,4 +3,4 @@ permalink: /resume/
 title: "Resume"
 toc: false
 ---
-Resume link
+[[Download My Resume]](/assets/pdf/CV_for_site.pdf)

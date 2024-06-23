@@ -12,3 +12,13 @@ main:
     url: /interests/
   - title: "Resume"
     url: /resume/
+
+research:
+  - title: "Bipedal Locomtion"
+    url: /rnp/bl/
+  - title: "Making Robots"
+    url: /rnp/robot/
+  - title: "Autonomous Driving"
+    url: /rnp/ad/
+  - title: "Connected System"
+    url: /rnp/cs/

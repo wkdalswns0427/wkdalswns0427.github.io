@@ -1,15 +1,18 @@
 ---
 permalink: /rnp/
 title: "Research&Projects"
-toc: true
+toc: false
 toc_sticky: true
 toc_label: "Research&Projects"
 ---
 
-## Bipedal Locomotion
+[Bipedal Locomotion](/rnp/bl/)
+<br>
 
-## Autonomous Driving
+[Autonomous Driving](/rnp/ad/)
+<br>
 
-## Making Robots
+[Making Robots](/rnp/robot/)
+<br>
 
-## Connected System
+[Connected System](/rnp/cs/)

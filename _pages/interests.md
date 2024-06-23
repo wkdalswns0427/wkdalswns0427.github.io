@@ -12,5 +12,3 @@ toc_label: "My Interests"
 ## Marine Activities
 
 Scuba Diving
-
-## 

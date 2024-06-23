@@ -9,7 +9,7 @@ title                    : "Minjun Chang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Minjun Chang"
-description              : "An amazing website."
+description              : ""
 url                      : "https://wkdalswns0427.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Minjun Chang"
   avatar           : "/assets/images/profile2.jpg"
-  bio              : "Robotics Engineer<br>Undergraduate Senoir at Mechanical Engineering, Yonsei Univ.<br>Research Intern at DYROS Lab, Seoul National Univ."
+  bio              : "Robotics Engineer<br>ME student, Yonsei Univ.<br>Intern, DYROS SNU"
   location         : "Seoul, Republic of Korea"
   email            : 
   links:
@@ -116,9 +116,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wkdalswns0427"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/minjun-chang-a205b121b/"
 
 # Site Footer
 footer:
