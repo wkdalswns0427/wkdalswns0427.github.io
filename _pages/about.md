@@ -17,6 +17,8 @@ toc_label: "MYSELF"
 
 ### Research Interest
 <span style="font-size:0.8em;">Motion Planning, Robotics, Locomotion, Marine, Autonomous Driving, Reinforcement Learning, Connectivity</span>
+<br>
+<br>
 
 ---
 ### Research & Projects
@@ -46,7 +48,7 @@ toc_label: "MYSELF"
 ### Research Experiences
 <span style="font-size:0.8em;">
 <span style="color:#4993FE">2024.06 - Present  | </span>
-**Dynamic Robot Systems Laboratory**, Seoul National University
+**[Dynamic Robotic Systems Laboratory](http://dyros.snu.ac.kr/)**, Seoul National University
 </span>
 <br>
 <span style="font-size:0.7em;">**Undergraduate Intern**, Supervisor : Professor JaeHeung Park</span>
@@ -59,7 +61,7 @@ toc_label: "MYSELF"
 <br>
 <span style="font-size:0.8em;">
 <span style="color:#4993FE">2020.07 - 2021.06  | </span>
-**Mechanobiology and Soft Materials Laboratory**, Yonsei University
+**[Mechanobiology and Soft Materials Laboratory](http://leelab.yonsei.ac.kr/)**, Yonsei University
 </span>
 <br>
 <span style="font-size:0.7em;">**Undergraduate Intern**, Supervisor : Professor Hyungseok Lee</span>
@@ -72,7 +74,7 @@ toc_label: "MYSELF"
 <br>
 <span style="font-size:0.8em;">
 <span style="color:#4993FE">2020.07 - 2021.06  | </span>
-**Biomedical and Energy System Laboratory**, Yonsei University
+**[BioMedical & Energy System Lab](https://sites.google.com/a/bmesyonsei.com/bmeslab/)**, Yonsei University
 </span>
 <br>
 <span style="font-size:0.7em;">**Undergraduate Intern**, Supervisor : Professor Wonhyung Ryu</span>
