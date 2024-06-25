@@ -23,7 +23,7 @@ toc_label: "MYSELF"
 ---
 ### Research & Projects
 
-여기에 요약된 내용 이미지로 임베드
+Summary Image to be displayed...
 
 <span style="font-size:0.8em;">📌 More details on [Research&Projects](/rnp/) page!! </span>
 
@@ -54,9 +54,8 @@ toc_label: "MYSELF"
 <span style="font-size:0.7em;">**Undergraduate Intern**, Supervisor : Professor JaeHeung Park</span>
 <br>
 <span style="font-size:0.75em;">
-    - AAAA 
+    - Working on reinforcement learning based bipedal locomotion with Bolt10 model
     <br>
-    - BBB
 </span>
 <br>
 <span style="font-size:0.8em;">

@@ -6,13 +6,13 @@ toc_sticky: true
 toc_label: "Research&Projects"
 ---
 
-[Bipedal Locomotion](/rnp/bl/)
+> **[Bipedal Locomotion](/rnp/bl/)**
 <br>
 
-[Autonomous Driving](/rnp/ad/)
+> **[Autonomous Driving](/rnp/ad/)**
 <br>
 
-[Making Robots](/rnp/robot/)
+> **[Making Robots](/rnp/robot/)**
 <br>
 
-[Connected System](/rnp/cs/)
+> **[Connected System](/rnp/cs/)**
