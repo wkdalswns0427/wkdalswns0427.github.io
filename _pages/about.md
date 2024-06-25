@@ -25,7 +25,7 @@ toc_label: "MYSELF"
 
 Summary Image to be displayed...
 
-<span style="font-size:0.8em;">📌 More details on [Research&Projects](/rnp/) page!! </span>
+> <span style="font-size:0.8em;">📌 More details on [Research&Projects](/rnp/) page!! </span>
 
 ### Publications, Patents, and SW Copyrights
 **Publications**
@@ -81,5 +81,37 @@ Summary Image to be displayed...
 <span style="font-size:0.75em;">
     - Developed an effective cardiovascular micro-stent design
 </span>
+
+---
+### Work Experience
+<span style="font-size:0.8em;">
+<span style="color:#4993FE">2024.04 - 2024.06  | </span>
+**[GoLe Robotics](https://golerobotics.com)**, Seoul
+</span>
+<br>
+<span style="font-size:0.7em;">**Robotics Engineer(Intern)**</span>
+
+<span style="font-size:0.8em;">
+<span style="color:#4993FE">2022.10 - 2024.03  | </span>
+**[DRIMAES](https://drimaes.com)**, Seoul
+</span>
+<br>
+<span style="font-size:0.7em;">**Junior Embedded Software Engineer**</span>
+
+<span style="font-size:0.8em;">
+<span style="color:#4993FE">2022.02 - 2022.10  | </span>
+**[ToysMyth](http://www.toysmyth.com/)**, Seoul
+</span>
+<br>
+<span style="font-size:0.7em;">**Junior Embedded Software Engineer**</span>
+
+<span style="font-size:0.8em;">
+<span style="color:#4993FE">2021.06 - 2021.07  | </span>
+**[Alsemy](https://alsemy.com)**, Seoul
+</span>
+<br>
+<span style="font-size:0.7em;">**AI Lab Member(Intern)**</span>
+<br>
+> <span style="font-size:0.8em;">📌 More details on [Work](/work/) page!! </span>
 
 ---
