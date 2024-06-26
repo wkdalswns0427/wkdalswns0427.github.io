@@ -16,7 +16,8 @@ Marking this achievement, we are preparing a patent and a publication for this p
 </span>
 
 ### Spot Micro
-Built a Spot Micro robot from scratch based on [open-source model](https://www.thingiverse.com/thing:3761340)
+<span style="font-size:0.8em;">
+Built a Spot Micro robot from scratch based on [open-source model](https://www.thingiverse.com/thing:3761340)</span>
 ![gif](/assets/images/sajogi1.gif){: width="250" height="250" }
 ![gif](/assets/images/sajogi2.gif){: width="300" height="300" }
 
