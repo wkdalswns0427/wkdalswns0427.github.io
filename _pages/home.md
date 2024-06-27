@@ -126,7 +126,7 @@ Summary Image to be displayed...
 **Software Copyrights**
 <br>
 <span style="font-size:0.8em;">
-    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, DOngh Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792
+    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792
 </span>
 <br>
 

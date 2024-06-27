@@ -13,7 +13,8 @@ This project was done in a 'Creative Product Design' class. My team was tasked w
 <br>
 I was responsible for <span style="color:#4993FE">constructing the actuation parts, circuit design of the whole system under restricted battery constraints.</span> In addition I developed the whole algorithm for BLDC motor control without encoder soley by hall sensor feedback and precise PWM control with hand-made RC filter.
 Marking this achievement, we are preparing a patent and a publication for this product.
-</span><br>**code repository -> [LINK](https://github.com/Cartrasche-CreativeProductDesign)**
+<br>**code repository -> [LINK](https://github.com/Cartrasche-CreativeProductDesign)**
+</span>
 
 ### SAJOGI, a Spot Micro
 <span style="font-size:0.8em;">
@@ -28,3 +29,7 @@ Built a Spot Micro robot from scratch based on [open-source model](https://www.t
 My SPOT, **SAJOGI** is made with high-torque servo motors and has *RaspberryPi4B* for controller. I managed to make him walk(kind of)...!<br>
 At that time my understanding on electric circuit was insufficient, which led to buzzing and unexpected movements. This experience led me to build experties on electric circuits and later was able to design full analog circuit with RC filters on CARTRASCHE.
 <br>**code repository -> [LINK](https://github.com/wkdalswns0427/SpotMicro_SAJOGI)**
+<br>
+<br>
+
+**To be continued...**

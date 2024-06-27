@@ -25,3 +25,20 @@ An ESP32 FreeRTOS based IoT indoor environment monitoring system that measures i
 [LINK](https://github.com/wkdalswns0427/LeafeonIOTProject)
 
 ### EYE-Tuner @Workstation: CatchVison
+<span style="font-size:0.8em;">
+EYE-Tuner is a Web-based personalized digital reading comprehension website.
+<br>
+Through eye tracking, it identifies the user's gaze movement speed and reading habits to display text at a customized speed for the user. It measures the user's eye fatigue and notifies the user of their fatigue level. It saves the user's personalized screen settings.
+</span>
+
+![gif](/assets/images/workstation.gif){: width="350" height="350" .align-center}
+<br>
+more details on [LINK](https://github.com/Eye-Tuner/Eye-Tuner)
+<br>
+<span style="font-size:0.8em;">
+    *This project achieved*<br>
+    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, DOngh Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792<br>
+    2. IHEI Show Off Festa2, **Best Choice Award** `2021`, *IHEI Yonsei*<br>
+    3. [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239), **Excellence Prize** `2021`, *Busan City*<br>
+    4. Yonsei IHEI Workstation, **Impact Solution Award** `2021`, *IHEI Yonsei*
+</span>
