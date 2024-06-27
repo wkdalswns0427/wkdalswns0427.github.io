@@ -12,39 +12,12 @@ toc_label: "MYSELF"
 **Yonsei University**, Seoul, Republic of Korea
 <span style="font-size:0.8em;">
 <br><span style="color:#4993FE">2019 - 2025</span>
-<br>**BS**, Mechanical Engineering (GPA : 3.4/4.3)
+<br>**BS**, Mechanical Engineering
 </span>
 
 ### Research Interest
 <span style="font-size:0.8em;">Motion Planning, Robotics, Locomotion, Marine, Autonomous Driving, Reinforcement Learning, Connectivity</span>
-<br>
-<br>
 
----
-### Research & Projects
-
-Summary Image to be displayed...
-
-> <span style="font-size:0.8em;">📌 More details on [Research&Projects](/rnp/) page!! </span>
-
-### Publications, Patents, and SW Copyrights
-**Publications**
-<br>
-<span style="font-size:0.8em;">
-    1. Hyeongwoo Nam*, Seoyeon Choi*, **Minjun Chang***, Joonho Yang*, Jaehyeon Lim, Jongeun Choi, “State prediction based control input delay compensation for autonomous driving systems ”, The 18th Korea Robotics Society Annual Conference (KRoC 2023, Feb. 15-18, 2023)     *equal contribution
-</span>
-
-**Patents**
-<br>
-<span style="font-size:0.8em;">
-    1. **Minjun Chang**, Eunhui Cho, Jaemin Jeon, Gyeryeong Park, Yumi Kim, "Automatic-Continuous Urine Output & Urinanalysis System: ACUOUS", KR 10-2020-0176792 (under prosecution)
-</span>
-<br>
-<span style="font-size:0.8em;">
-    2. Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Human Following Manufacture Assistant Robotic Platform", Korea  *equal contribution
-</span>
-
----
 ### Research Experiences
 <span style="font-size:0.8em;">
 <span style="color:#4993FE">2024.06 - Present  | </span>
@@ -57,7 +30,6 @@ Summary Image to be displayed...
     - Working on reinforcement learning based bipedal locomotion with Bolt10 model
     <br>
 </span>
-<br>
 <span style="font-size:0.8em;">
 <span style="color:#4993FE">2020.07 - 2021.06  | </span>
 **[Mechanobiology and Soft Materials Laboratory](http://leelab.yonsei.ac.kr/)**, Yonsei University
@@ -81,6 +53,35 @@ Summary Image to be displayed...
 <span style="font-size:0.75em;">
     - Developed an effective cardiovascular micro-stent design
 </span>
+
+Summary Image to be displayed...
+
+> <span style="font-size:0.8em;">📌 More details on [Research&Projects](/rnp/) page!! </span>
+
+---
+### Publications, Patents, and SW Copyrights
+**Publications**
+<br>
+<span style="font-size:0.8em;">
+    1. Hyeongwoo Nam*, Seoyeon Choi*, **Minjun Chang***, Joonho Yang*, Jaehyeon Lim, Jongeun Choi, “State prediction based control input delay compensation for autonomous driving systems ”, The 18th Korea Robotics Society Annual Conference (KRoC 2023, Feb. 15-18, 2023)     *equal contribution
+</span>
+
+**Patents**
+<br>
+<span style="font-size:0.8em;">
+    1. **Minjun Chang**, Eunhui Cho, Jaemin Jeon, Gyeryeong Park, Yumi Kim, "Automatic-Continuous Urine Output & Urinanalysis System: ACUOUS", KR 10-2020-0176792 (under prosecution)
+</span>
+<br>
+<span style="font-size:0.8em;">
+    2. Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Human Following Manufacture Assistant Robotic Platform", Korea  *equal contribution
+</span>
+
+**Software Copyrights**
+<br>
+<span style="font-size:0.8em;">
+    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, DOngh Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792
+</span>
+<br>
 
 ---
 ### Work Experience

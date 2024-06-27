@@ -2,15 +2,15 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Research&Projects"
-    url: /rnp/
   - title: "Work"
     url: /work/
+  - title: "Research&Projects"
+    url: /rnp/
   - title: "Achievements"
     url: /achievements/
   - title: "Interest"
     url: /interests/
-  - title: "Resume"
+  - title: "CV"
     url: /resume/
 
 research:

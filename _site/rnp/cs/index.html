@@ -110,16 +110,16 @@
               >About</a>
             </li><li class="masthead__menu-item">
               <a
-                href="/rnp/"
-                
-                
-              >Research&Projects</a>
-            </li><li class="masthead__menu-item">
-              <a
                 href="/work/"
                 
                 
               >Work</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/rnp/"
+                
+                
+              >Research&Projects</a>
             </li><li class="masthead__menu-item">
               <a
                 href="/achievements/"
@@ -137,7 +137,7 @@
                 href="/resume/"
                 
                 
-              >Resume</a>
+              >CV</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -215,6 +215,10 @@
         
           
             <li><a href="https://www.instagram.com/jadelaw2876/saved/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
+          
+        
+          
+            <li><a href="https://www.youtube.com/channel/UC6fZzX5dYDrA0Ah8QvCmeug" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw  fa-youtube" aria-hidden="true"></i><span class="label">YouTube</span></a></li>
           
         
       
@@ -307,16 +311,29 @@
           <aside class="sidebar__right sticky">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Projects</h4></header>
-              <ul class="toc__menu"><li><a href="#bssbattery-swap-station">BSS(Battery Swap Station)</a></li></ul>
+              <ul class="toc__menu"><li><a href="#bssbattery-swap-station-drimaes">BSS(Battery Swap Station) @DRIMAES</a></li><li><a href="#leafeon-project-personal">Leafeon Project @Personal</a></li><li><a href="#eye-tuner-workstation-catchvison">EYE-Tuner @Workstation: CatchVison</a></li></ul>
             </nav>
           </aside>
         
-        <h3 id="bssbattery-swap-station">BSS(Battery Swap Station)</h3>
-<p><span style="font-size:0.8em;">
-Battery Swap Station <strong><a href="https://drimaes.com/solution-bss/">BATTON</a></strong> consists of four <em>charging modules</em> communicating via <em>RS485</em> protocol with main <em>Linux System</em> that controls subsystems through <em>MQTT server</em> and <em>virtual MQ(Message Queue)</em>
+        <h3 id="bssbattery-swap-station-drimaes">BSS(Battery Swap Station) @DRIMAES</h3>
+<p><img src="/assets/images/bss.png" alt="image" />
+<br />
+<span style="font-size:0.8em;">
+Battery Swap Station <strong><a href="https://drimaes.com/solution-bss/">BATTON</a></strong> consists of four <em>cradles</em> communicating via <em>RS485</em> protocol with main <em>Linux System</em> that controls subsystems through <em>MQTT server</em> and <em>virtual MQ(Message Queue)</em><br />
+I was in charge of <strong>controlling cradles with private RS485 protocol</strong>, <strong>OTA FW update feature with AWS Bucket</strong>, <strong>Edge Networking stations in district</strong>, and <strong>Internal MQ communication</strong>.
 </span></p>
 
-<p><img src="/assets/images/bss.png" alt="image" /></p>
+<h3 id="leafeon-project-personal">Leafeon Project @Personal</h3>
+<p><span style="font-size:0.8em;">
+An ESP32 FreeRTOS based IoT indoor environment monitoring system that measures indoor Temperature, humidity, eCO2, eTVOC, Particle Dust, and little bit inaccurate altitude and logs them on cloud server.
+<br /> It was a full personal project that I managed A to Z process alone. Leafeon features <strong>ESP32 IoT device</strong>, <strong>FastAPI server</strong>, <strong>Local OTA server</strong>, <strong>AWS RDS DB</strong>, and a simple dahsboard.
+</span></p>
+
+<p><img src="/assets/images/leaf_sys.png" alt="image" width="250" height="250" /></p>
+
+<p><a href="https://github.com/wkdalswns0427/LeafeonIOTProject">LINK</a></p>
+
+<h3 id="eye-tuner-workstation-catchvison">EYE-Tuner @Workstation: CatchVison</h3>
 
         
       </section>
