@@ -17,12 +17,12 @@ I was in charge of **controlling cradles with private RS485 protocol**, **OTA FW
 ### Leafeon Project @Personal
 <span style="font-size:0.8em;">
 An ESP32 FreeRTOS based IoT indoor environment monitoring system that measures indoor Temperature, humidity, eCO2, eTVOC, Particle Dust, and little bit inaccurate altitude and logs them on cloud server.
-<br> It was a full personal project that I managed A to Z process alone. Leafeon features **ESP32 IoT device**, **FastAPI server**, **Local OTA server**, **AWS RDS DB**, and a simple dahsboard.
+<br> It was a full personal project that I managed A to Z process alone. Leafeon features **ESP32 IoT device**, **FastAPI server**, **Local OTA server**, **AWS RDS DB**, and a simple dahsboard.<br>
 </span>
-
-![image](/assets/images/leaf_sys.png){: width="250" height="250" }
-
+![image](/assets/images/leaf_sys.png){: width="250" height="250" }<br>
+<span style="font-size:0.8em;">
 [LINK](https://github.com/wkdalswns0427/LeafeonIOTProject)
+</span>
 
 ### EYE-Tuner @Workstation: CatchVison
 <span style="font-size:0.8em;">
@@ -33,12 +33,12 @@ Through eye tracking, it identifies the user's gaze movement speed and reading h
 
 ![gif](/assets/images/workstation.gif){: width="350" height="350" .align-center}
 <br>
-more details on [LINK](https://github.com/Eye-Tuner/Eye-Tuner)
-<br>
 <span style="font-size:0.8em;">
     *This project achieved*<br>
     1. **Minjun Chang**, Guiju Choi Jungyoon Byun, DOngh Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792<br>
     2. IHEI Show Off Festa2, **Best Choice Award** `2021`, *IHEI Yonsei*<br>
     3. [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239), **Excellence Prize** `2021`, *Busan City*<br>
     4. Yonsei IHEI Workstation, **Impact Solution Award** `2021`, *IHEI Yonsei*
+    <br>
+    **more details on [LINK](https://github.com/Eye-Tuner/Eye-Tuner)**
 </span>
