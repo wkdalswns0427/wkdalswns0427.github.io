@@ -6,7 +6,7 @@ toc_sticky: true
 toc_label: "MYSELF"
 ---
 
-![image](/assets/logo.ico/profile.jpg){: width="250" height="200" .align-left}
+![image](/assets/images/paw.jpeg){: width="250" height="200" .align-left}
 
 ### Education
 **Yonsei University**, Seoul, Republic of Korea
@@ -73,13 +73,13 @@ Summary Image to be displayed...
 </span>
 <br>
 <span style="font-size:0.8em;">
-    2. Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Human Following Manufacture Assistant Robotic Platform", Korea  *equal contribution
+    2. Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Human Following Manufacture Assistant Robotic Platform", Korea (on preparation) *equal contribution
 </span>
 
 **Software Copyrights**
 <br>
 <span style="font-size:0.8em;">
-    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, DOngh Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792
+    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792 (registered)
 </span>
 <br>
 

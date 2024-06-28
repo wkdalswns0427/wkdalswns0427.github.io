@@ -11,7 +11,7 @@ hidden: true
 
 ![image](/assets/images/profile2.jpg){: width="330" height="330" .align-left}
 <span style="font-size:0.8em;">
-Hello! My name is Minjun Chang. I am an undergraduate senior in Mechanical Engineering at Yonsei University. I am currently working as a research intern at [Dynamic Robotic Systems Lab](http://dyros.snu.ac.kr/) at Seoul National University.
+My name is Minjun Chang. I am an undergraduate senior in Mechanical Engineering at Yonsei University. I am currently working as a research intern at [Dynamic Robotic Systems Lab](http://dyros.snu.ac.kr/) at Seoul National University.
 </span>
 <br>
 <br><span style="font-size:0.8em;">
@@ -120,14 +120,15 @@ Summary Image to be displayed...
 </span>
 <br>
 <span style="font-size:0.8em;">
-    2. Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Human Following Manufacture Assistant Robotic Platform", Korea  *equal contribution
+    2. Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Human Following Manufacture Assistant Robotic Platform", Korea (on preparation) *equal contribution
 </span>
 
 **Software Copyrights**
 <br>
 <span style="font-size:0.8em;">
-    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792
+    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792 (registered)
 </span>
 <br>
+
 
 ---

@@ -20,7 +20,7 @@ toc_label: "Work Experiences"
 
 ---
 ### [DRIMAES](https://drimaes.com/)
-![image](/assets/images/drimaes.jpeg){: width="150" height="150" .align-left}
+![image](/assets/images/drimaes.jpeg){: width="150" height="300" .align-left}
 **Embedded SW Engineer, Junior Engineer** 
 <span style="font-size:0.7em;">(2022.10 ~ 2024.03)</span>
 <br>
@@ -28,9 +28,9 @@ toc_label: "Work Experiences"
 <br>
 <span style="font-size:0.8em;">- STM32F103* BMS firmware, PLC driver middleware for LEISUWASH </span>
 <br>
-<span style="font-size:0.8em; margin-left:170px">- Middleware Docker Containerization, Muilt-Container Orchestration</span>
+<span style="font-size:0.8em;">- Middleware Docker Containerization, Muilt-Container Orchestration</span>
 <br>
-<span style="font-size:0.8em; margin-left:170px">- Developed serial communication drivers for external device integration</span>
+<span style="font-size:0.8em;">- Developed serial communication drivers for external device integration</span>
 <br>
 
 ---

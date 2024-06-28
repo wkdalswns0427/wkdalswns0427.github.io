@@ -5,15 +5,23 @@ toc: true
 toc_sticky: true
 toc_label: "Projects"
 ---
-### Second Autonomous Robot Racing Competetion 2022
+### Autonomous Robot Racing Competetion
 <span style="font-size:0.8em;">
     I participated in Yonsei Univ. for the competition as a member of localization team.<br>
-    <span style="color:#4993FE">Localization(my role) </span>: developed pre-localization package that fuses orientation and position data from two different IMUs and a GPS sensor.
+    <span style="color:#4993FE">Localization(my role) </span>: developed pre-localization package that fuses orientation and position data from two different IMUs and a GPS sensor. Took part in State Prediction based control input delay compensations method development.
 </span>
-<div style="text-align: center; font-weight: bold;">
+<div style="text-align: center; font-weight: bold;font-size:0.75em;">
     State Prediction based control input delay compensations for autonomous driving systems
 </div>
 ![image](/assets/images/statepred.png)
+<br>
+<span style="font-size:0.7em;">
+**Publication**<br></span>
+<span style="font-size:0.7em;">
+Hyeongwoo Nam*, Seoyeon Choi*, **Minjun Chang***, Joonho Yang*, Jaehyeon Lim, Jongeun Choi, “State prediction based control input delay compensation for autonomous driving systems ”, The 18th Korea Robotics Society Annual Conference (KRoC 2023, Feb. 15-18, 2023)     *equal contribution<br></span>
+<span style="font-size:0.7em;">**Awards**<br></span>
+<span style="font-size:0.7em;"><span style="color:#4993FE">Nov 2022 |</span> **1st Place**, [Second Autonomous Robot Racing Competetion](http://m.irobotnews.com/news/articleView.html?idxno=30037), *KROS*
+</span>
 <br>
 ![gif](/assets/images/ar_car.gif){: width="300" height="300" .align-left}
 <div style="text-align: left;">
