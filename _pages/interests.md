@@ -13,12 +13,21 @@ toc_label: "My Interests"
 <span style="color:#4993FE">2021.01 ~ 2021.08 |</span> Vice President<br>
 <span style="color:#4993FE">2021.09 ~ 2022.08 |</span> President<br>
 </span>
+<span style="font-size:0.8em;">
+I built various robots as a member of the club. SAJOGI, Drone, Hexapod and more.
+</span><br>
+
+![image](/assets/images/edison.jpeg){: width="150" height="200" }
+![image](/assets/images/hexapod.jpeg){: width="150" height="200" }
+![gif](/assets/images/drone.gif){: width="150" height="200" }
+![image](/assets/images/sjg.jpeg){: width="150" height="200" }
 
 <span style="font-size:0.9em;">
 **BitCrab, Embedded SW Club(Yonsei Univ.)**, 2024.03 ~ <br>
 </span>
 <span style="font-size:0.8em;">
-After spending two years as embedded software engineer, I wanted to continue developing my skills on embedded software and electonics.
+After spending two years as embedded software engineer, I wanted to continue developing my skills on embedded software and electonics.<br>
+I am sharing my experiences and learning FPGA and Verilog programming with colleagues.
 </span>
 
 ### Band Music

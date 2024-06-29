@@ -20,14 +20,14 @@ My research interest is built around using control theory for robots and autonom
 <br>
 <br><span style="font-size:0.8em;">
 I am looking to pursue graduate studies in the U.S. Take a look around my website for more detailed information about me and I am always open for any kinds of questions.
-You can reach out to me with the email address below. Thank You!
+You can reach out to me with the email address below. Thank You!<br>
+[<span style="color:#4993FE">[If you're too busy to look around..]</span>](/assets/pdf/CV_for_site.pdf) | [[📧<span style="color:#4993FE">Mail</span>]](mailto:wkdalswns0427@yonsei.ac.kr)
 </span>
 
 ### Education
 **Yonsei University**, Seoul, Republic of Korea
 <span style="font-size:0.8em;">
-<br><span style="color:#4993FE">2019 - 2025</span>
-<br>**BS**, Mechanical Engineering
+<br><span style="color:#4993FE">2019 - 2025 | </span>**BS**, Mechanical Engineering
 </span>
 
 ### Research Interest
