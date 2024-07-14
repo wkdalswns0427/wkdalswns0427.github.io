@@ -35,12 +35,15 @@ Hyeongwoo Nam*, Seoyeon Choi*, **Minjun Chang***, Joonho Yang*, Jaehyeon Lim, Jo
 <br>
 <br>
 
-### GoLe Robotics 'WeRo'
+### GoLe Robotics 'WeRo3'
 <span style="font-size:0.8em;">
-    I developed and implemented path planning algorithm(A* & pure pursuit) for WeRo.
+    I developed and implemented path planning algorithm(A* & sMPC) for WeRo.
 </span>
 
 ![gif](/assets/images/wego.gif){: width="300" height="300" .align-center}
+<br><span style="font-size:0.8em;">
+    WeRo3 generates global path to follow based on ready-given 'measurement drawing' and simultaneous sensor data to avoid colliding with rubbish.
+</span>
 
 ### Cartrasche
 <span style="font-size:0.8em;">

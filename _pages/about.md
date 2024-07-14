@@ -31,7 +31,7 @@ toc_label: "MYSELF"
     <br>
 </span>
 <span style="font-size:0.8em;">
-<span style="color:#4993FE">2020.07 - 2021.06  | </span>
+<span style="color:#4993FE">2019.12 - 2020.02  | </span>
 **[Mechanobiology and Soft Materials Laboratory](http://leelab.yonsei.ac.kr/)**, Yonsei University
 </span>
 <br>
