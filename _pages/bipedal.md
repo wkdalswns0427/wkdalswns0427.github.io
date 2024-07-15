@@ -9,9 +9,9 @@ toc_sticky: true
     <br>Simulation and learning is conducted on IsaacGym(NVIDIA) framework with cuda12.2.
 </span>
 
-<br>**Bipedal Balancing**
+<br><span style="font-size:0.8em;">**Bipedal Balancing**</span><br>
 ![gif](/assets/images/walking_stand.gif){: width="450" height="450" }
-<br>**Crouched Walking**
+<br><span style="font-size:0.8em;">**Crouched Walking**</span><br>
 ![gif](/assets/images/walking_crouch.gif){: width="450" height="450" }
-
+<br>
 This page will be updated as my research proceeds.
