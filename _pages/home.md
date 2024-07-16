@@ -133,7 +133,9 @@ Summary Image to be displayed...
 ---
 **Skill**
 <br>
-**Programming Languages:** Python, C, C++, MATLAB, Javascript <br>
-**Frameworks/Tools:** ROS1&2, Docker, IsaacGym, PyTorch, FastAPI, MySQL, Solidworks <br>
-**Hardware:** Jetson Xavier, Jetson Nano, RaspberryPi, Arduino, ESP32, STM32, Bolt10, ScoutMini, WeGoERP42 <br>
-**Languages:** Korean (Native), English (Fluent, TOEFL 103 / personal best 111) 
+<span style="font-size:0.8em;">
+    **Programming Languages:** Python, C, C++, MATLAB, Javascript <br>
+    **Frameworks/Tools:** ROS1&2, Docker, IsaacGym, PyTorch, FastAPI, MySQL, Solidworks <br>
+    **Hardware:** Jetson Xavier, Jetson Nano, RaspberryPi, Arduino, ESP32, STM32, Bolt10, ScoutMini, WeGoERP42 <br>
+    **Languages:** Korean (Native), English (Fluent, TOEFL 103 / personal best 111) 
+</span>
