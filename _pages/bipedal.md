@@ -5,8 +5,8 @@ toc: false
 toc_sticky: true
 ---
 <span style="font-size:0.8em;">
-    I am currently working on reinforcement learning based bipedal robot locomotion with Bolt10 model. Main task is to configure profound policy that applies well on real world robot.
-    <br>Simulation and learning is conducted on IsaacGym(NVIDIA) framework with cuda12.2.
+    I woked on reinforcement learning based bipedal robot locomotion with Bolt10 model. Main task is to configure profound policy that applies well on real world robot.
+    <br>Simulation and learning is conducted on IsaacGym(NVIDIA) framework with cuda12.2. using RL framework rl_games
 </span>
 
 <br><span style="font-size:0.8em;">**Bipedal Balancing**</span><br>
@@ -14,4 +14,11 @@ toc_sticky: true
 <br><span style="font-size:0.8em;">**Crouched Walking**</span><br>
 ![gif](/assets/images/walking_crouch.gif){: width="450" height="450" }
 <br>
+
+<span style="font-size:0.8em;">
+    Although I succeeded simulation of th e robot locomotion in legged_gy amd rsl_rl environment, progress on implementing the task to rl_games was lagging. So I switched to Bolt6 model and am working on Sim2Real implementation at this moment.
+    <br>Simulation and learning is conducted on IsaacGym(NVIDIA) framework with cuda12.2. using RL framework rsl_rl
+</span>
+
+
 This page will be updated as my research proceeds.
