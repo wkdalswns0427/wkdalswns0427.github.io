@@ -16,9 +16,16 @@ toc_sticky: true
 <br>
 
 <span style="font-size:0.8em;">
-    Although I succeeded simulation of th e robot locomotion in legged_gy amd rsl_rl environment, progress on implementing the task to rl_games was lagging. So I switched to Bolt6 model and am working on Sim2Real implementation at this moment.
+    Although I succeeded simulation of th e robot locomotion in legged_gym and rsl_rl environment, progress on implementing the task to rl_games was lagging. So I switched to Bolt6 model and am working on Sim2Real implementation at this moment.
     <br>Simulation and learning is conducted on IsaacGym(NVIDIA) framework with cuda12.2. using RL framework rsl_rl
 </span>
+<br>
+<br>
+<span style="font-size:0.8em;">
 
+**Walking**
+</span><br>
+![gif](/assets/images/walking_bolt6.gif){: width="450" height="450" }
+<br>
 
 This page will be updated as my research proceeds.

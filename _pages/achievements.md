@@ -37,6 +37,7 @@ toc_label: "Achievements"
 <span style="font-size:0.8em;">
 [National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize** `2024`, *Ministry of Science and ICT*
 </span>
+</brs>
 <span style="font-size:0.8em;">
 [Second Autonomous Robot Racing Competetion](http://m.irobotnews.com/news/articleView.html?idxno=30037), **Grand Prize** `2022`, *Korea Robot Society*
 </span>
@@ -94,7 +95,7 @@ YonseiXNexon Creative Platform, **Excellence Prize** `2019`, *RC committee*
 **Software Copyrights**
 <br>
 <span style="font-size:0.8em;">
-    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792 (registered)
+    1. **Minjun Chang**, Guiju Choi, Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792 (registered)
 </span>
 <br>
 
