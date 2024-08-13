@@ -4,8 +4,10 @@ title: "Bipedal Locomotion"
 toc: false
 toc_sticky: true
 ---
+![image](/assets/images/Poster.jpg)
+<br>
 <span style="font-size:0.8em;">
-    I woked on reinforcement learning based bipedal robot locomotion with Bolt10 model. Main task is to configure profound policy that applies well on real world robot.
+    I worked on reinforcement learning based bipedal robot locomotion with Bolt10 model. Main task is to configure profound policy that applies well on real world robot.
     <br>Simulation and learning is conducted on IsaacGym(NVIDIA) framework with cuda12.2. using RL framework rl_games
 </span>
 
