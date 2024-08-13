@@ -30,6 +30,14 @@ My SPOT, **SAJOGI** is made with high-torque servo motors and has *RaspberryPi4B
 At that time my understanding on electric circuit was insufficient, which led to buzzing and unexpected movements. This experience led me to build experties on electric circuits and later was able to design full analog circuit with RC filters on CARTRASCHE.
 <br>**code repository -> [LINK](https://github.com/wkdalswns0427/SpotMicro_SAJOGI)**
 <br>
+
+### BOLT6, 6DoF Bipedal Robot
+<span style="font-size:0.8em;">
+hardware configuration from [Open Dynamic Robot Initiative](https://github.com/open-dynamic-robot-initiative/open_robot_actuator_hardware/blob/master/mechanics/biped_6dof_v1/README.md)
+<br>
+</span>
+
+![image](/assets/images/bolt6_img.jpeg){: width="250" height="250" }
 <br>
 
 **To be continued...**

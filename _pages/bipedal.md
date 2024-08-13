@@ -26,7 +26,9 @@ toc_sticky: true
 <span style="font-size:0.8em;">
 
 **Walking**
-</span><br>
+</span>
+<br>
+
 ![gif](/assets/images/walking_bolt6.gif){: width="450" height="450" }
 <br>
 

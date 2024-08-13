@@ -42,7 +42,7 @@ You can reach out to me with the email address below. Thank You!<br>
 <span style="font-size:0.7em;">**Undergraduate Intern**, Supervisor : Professor JaeHeung Park</span>
 <br>
 <span style="font-size:0.75em;">
-    - Reinforcement Learning based bipedal locomotion
+    - Reinforcement Learning based bipedal locomotion<br>
     - [Simultaneous Training of Control Policy and State Estimation with Symmetry Configuration for Bipedal Locomotion](/rnp/bl/)
     <br>
 </span>
