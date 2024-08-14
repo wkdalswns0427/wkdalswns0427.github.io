@@ -35,9 +35,9 @@ toc_label: "Achievements"
 ---
 ### Awards&Honors
 <span style="font-size:0.8em;">
-[National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize** `2024`, *Ministry of Science and ICT*
+[National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize** `2024`, *Korean Ministry of Science and ICT*
 </span>
-</br>
+<br>
 <span style="font-size:0.8em;">
 [Second Autonomous Robot Racing Competetion](http://m.irobotnews.com/news/articleView.html?idxno=30037), **Grand Prize** `2022`, *Korea Robot Society*
 </span>
