@@ -30,7 +30,8 @@ I built various robots as a member of the club. SAJOGI, Drone, Hexapod and more.
 As much as I am interested in robotics, I am very aware of massive importance of AI in its development. As a memeber of YAI, I mmainly focus on studying **Reinforcement Learning** and **Robot Learning** while sharing knowledge with colleagus with different interests.<br>
 I recently began posting reviews of papers I read in this group on my [blog](https://maltese-rocks.tistory.com/category/ML%20Study/Robotics%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0)!<br>
 
-![image](/assets/images/YAI.jpeg){: width="300" height="200" }
+![image](/assets/images/YAI.jpeg){: width="500" height="200" }
+
 </span><br>
 
 <span style="font-size:0.9em;">
