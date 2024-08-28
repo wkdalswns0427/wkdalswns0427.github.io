@@ -107,6 +107,49 @@ Summary Image to be displayed...
 > <span style="font-size:0.8em;">📌 More details on [Work](/work/) page!! </span>
 
 ---
+### Awards&Honors
+<span style="font-size:0.8em;">
+[National ICT Smart Device Competetion](https://www.msit.go.kr/bbs/view.do;jsessionid=ZaPcdY6GgbWARVJjBE6fAqAH6JZcs2Th5xDDs8o6.AP_msit_1?sCode=user&mPid=238&mId=113&bbsSeqNo=94&nttSeqNo=3184856), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*<br>
+**Grand Prize granted by Minister of Science and ICT**
+</span>
+<br>
+<span style="font-size:0.8em;">
+[Second Autonomous Robot Racing Competetion](http://m.irobotnews.com/news/articleView.html?idxno=30037), **Grand Prize(1st place)** `2022`, *Korea Robot Society*
+</span>
+<br>
+<span style="font-size:0.8em;">
+IHEI Show Off Festa2, **Best Choice Award** `2021`, *IHEI Yonsei*
+</span>
+<br>
+<span style="font-size:0.8em;">
+[Hanium Competition](http://www.hanium.or.kr/), **Selection** `2021`, *Federation of Korea Information Industries*
+</span>
+<br>
+<span style="font-size:0.8em;">
+[MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239), **Excellence Prize(2nd place)** `2021`, *Busan City*
+</span>
+<br>
+<span style="font-size:0.8em;">
+Yonsei IHEI Workstation, **Impact Solution Award** `2021`, *IHEI Yonsei*
+</span>
+<br>
+<span style="font-size:0.8em;">
+[KU Medical Hackathon](http://biosku.konkuk.ac.kr/medical/main/main.php), **Excellence Prize(2nd place)** `2020`, *Konkuk Univ. Hospital*
+</span>
+<br>
+<span style="font-size:0.8em;">
+[EDISON Coptuper Aided Design Competition](https://cfd.edison.re.kr/web/challenge/10th_design), **Top 8** `2020`, *K-MOOC*
+</span>
+<br>
+<span style="font-size:0.8em;">
+IHEI Summer Workstation - ACUOUS, **Excellence Award(2nd place)** `2020`, *IHEI Yonsei*
+</span>
+<br>
+<span style="font-size:0.8em;">
+YonseiXNexon Creative Platform, **Excellence Prize(3rd place)** `2019`, *RC committee*
+</span>
+
+---
 ### Publications, Patents, and SW Copyrights
 **Publications**
 <br>

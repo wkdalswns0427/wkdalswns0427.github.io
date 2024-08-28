@@ -35,7 +35,8 @@ toc_label: "Achievements"
 ---
 ### Awards&Honors
 <span style="font-size:0.8em;">
-[National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize** `2024`, *Korean Ministry of Science and ICT*
+[National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*<br>
+**Grand Prize granted by Minister of Science and ICT**
 </span>
 <br>
 <span style="font-size:0.8em;">
