@@ -110,7 +110,7 @@ Summary Image to be displayed...
 ### Awards&Honors
 <span style="font-size:0.8em;">
 [National ICT Smart Device Competetion](https://www.msit.go.kr/bbs/view.do;jsessionid=ZaPcdY6GgbWARVJjBE6fAqAH6JZcs2Th5xDDs8o6.AP_msit_1?sCode=user&mPid=238&mId=113&bbsSeqNo=94&nttSeqNo=3184856), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*<br>
-**Grand Prize granted by Minister of Science and ICT**
+<span style="color:#4993FE">**Grand Prize granted by Minister of Science and ICT**</span>
 </span>
 <br>
 <span style="font-size:0.8em;">

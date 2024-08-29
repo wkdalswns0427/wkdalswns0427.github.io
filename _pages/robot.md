@@ -13,9 +13,12 @@ This project was done in a 'Creative Product Design' class. My team was tasked w
 <br>
 I was responsible for <span style="color:#4993FE">constructing the actuation parts, circuit design of the whole system under restricted battery constraints.</span> In addition I developed the whole algorithm for BLDC motor control without encoder soley by hall sensor feedback and precise PWM control with hand-made RC filter.
 Marking this achievement, we are preparing a patent and a publication for this product.
-<br>**code repository -> [LINK](https://github.com/Cartrasche-CreativeProductDesign)**
+<br>**code repository -> [LINK](https://github.com/Cartrasche-CreativeProductDesign)**</span>
+<br>**Achievements**
+<span style="font-size:0.8em;">
 <br>[National ICT Smart Device Competetion](https://www.msit.go.kr/bbs/view.do;jsessionid=ZaPcdY6GgbWARVJjBE6fAqAH6JZcs2Th5xDDs8o6.AP_msit_1?sCode=user&mPid=238&mId=113&bbsSeqNo=94&nttSeqNo=3184856), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*<br>
-**Grand Prize granted by Minister of Science and ICT**
+<span style="color:#4993FE">**Grand Prize granted by Minister of Science and ICT**</span>
+<br> Patent : Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Human Following Manufacture Assistant Robotic Platform", Korea (on preparation) *equal contribution
 </span>
 
 ### SAJOGI, a Spot Micro
