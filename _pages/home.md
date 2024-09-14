@@ -3,13 +3,13 @@ layout: splash
 permalink: /
 hidden: true
 # header:
-#   overlay_color: "#5e616c"
+#   overlay_color: "#5es616c"
 #   header:   
 ---
 <br>
 <h1><span style="color:#1460CD"><center> I am a student with abundant experience, eager to learn more </center></span></h1>
 
-![image](/assets/images/profile2.jpg){: width="330" height="330" .align-left}
+![image](/assets/images/profile3.jpg){: width="330" height="330" .align-left}
 <span style="font-size:0.8em;">
 My name is Minjun Chang. I am an undergraduate senior in Mechanical Engineering at Yonsei University. I am currently working as a research intern at [Dynamic Robotic Systems Lab](http://dyros.snu.ac.kr/) at Seoul National University.
 </span>
