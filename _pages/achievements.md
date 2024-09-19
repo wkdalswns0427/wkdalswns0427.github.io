@@ -5,34 +5,6 @@ toc: true
 toc_sticky: true
 toc_label: "Achievements"
 ---
-### Licences
-<span style="font-size:0.8em;">
-**Engineer Information Processing**
-</span>
-<br>
-<span style="font-size:0.7em;">
-*HRDK*, No.23202070834M
-</span>
-<br>
-<span style="font-size:0.8em;">
-**Pilot of Ultra-Light Vehicle**
-</span>
-<br>
-<span style="font-size:0.7em;">
-*Korea Transportation Safety Authority*, No.91-071285
-<br>Authorized Drone Pilot under 20kg
-</span>
-<br>
-<span style="font-size:0.8em;">
-**Advanced Diver & Diver Propulsion Vehicle**
-</span>
-<br>
-<span style="font-size:0.7em;">
-*PADI*, No.#710657
-<br>Authorized to dive 60m underwater & Drive DPV
-</span>
-
----
 ### Awards&Honors
 <span style="font-size:0.8em;">
 [National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*<br>
@@ -80,7 +52,8 @@ YonseiXNexon Creative Platform, **Excellence Prize** `2019`, *RC committee*
 **Publications**
 <br>
 <span style="font-size:0.8em;">
-    1. Hyeongwoo Nam*, Seoyeon Choi*, **Minjun Chang***, Joonho Yang*, Jaehyeon Lim, Jongeun Choi, “State prediction based control input delay compensation for autonomous driving systems ”, The 18th Korea Robotics Society Annual Conference (KRoC 2023, Feb. 15-18, 2023)     *equal contribution
+    1. Hyeongwoo Nam*, Seoyeon Choi*, **Minjun Chang***, Joonho Yang*, Jaehyeon Lim, Jongeun Choi, “State prediction based control input delay compensation for autonomous driving systems ”, The 18th Korea Robotics Society Annual Conference (KRoC 2023, Feb. 15-18, 2023)     *equal contribution<br>
+    2. W.J. Kim, H.J. Park, Minjun Chang, M.E. Cho, H.J.Kim, Dae-eun Kim*, “Development of Auxiliary Cart for Assembly Operations”, Trans. Korean Soc. Mech. Eng.(C), Vol. 24 (under prosecution)
 </span>
 
 **Patents**
@@ -96,7 +69,33 @@ YonseiXNexon Creative Platform, **Excellence Prize** `2019`, *RC committee*
 **Software Copyrights**
 <br>
 <span style="font-size:0.8em;">
-    1. **Minjun Chang**, Guiju Choi, Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792 (registered)
+    1. **Minjun Chang**, Guiju Choi, Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking",  C-2021-050308
 </span>
 <br>
-
+---
+### Licences
+<span style="font-size:0.8em;">
+**Engineer Information Processing**
+</span>
+<br>
+<span style="font-size:0.7em;">
+*HRDK*, No.23202070834M
+</span>
+<br>
+<span style="font-size:0.8em;">
+**Pilot of Ultra-Light Vehicle**
+</span>
+<br>
+<span style="font-size:0.7em;">
+*Korea Transportation Safety Authority*, No.91-071285
+<br>Authorized Drone Pilot under 20kg
+</span>
+<br>
+<span style="font-size:0.8em;">
+**Advanced Diver & Diver Propulsion Vehicle**
+</span>
+<br>
+<span style="font-size:0.7em;">
+*PADI*, No.#710657
+<br>Authorized to dive 60m underwater & Drive DPV
+</span>
