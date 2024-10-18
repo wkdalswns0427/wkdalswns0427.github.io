@@ -109,44 +109,17 @@ Summary Image to be displayed...
 ---
 ### Awards&Honors
 <span style="font-size:0.8em;">
-1. [National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*<br>
-<span style="color:#2a5db8">Grand Prize granted by the Minister of Science and ICT</span>
-</span>
-<br>
-<span style="font-size:0.8em;">
-2.[Second Autonomous Robot Racing Competetion](http://m.irobotnews.com/news/articleView.html?idxno=30037), **Grand Prize** `2022`, *Korea Robot Society*
-</span>
-<br>
-<span style="font-size:0.8em;">
-3. IHEI Show Off Festa2, **Best Choice Award** `2021`, *IHEI Yonsei*
-</span>
-<br>
-<span style="font-size:0.8em;">
-4. [Hanium Competition](http://www.hanium.or.kr/), **Selection** `2021`, *Federation of Korea Information Industries*
-</span>
-<br>
-<span style="font-size:0.8em;">
-5. [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239), **Excellence Prize** `2021`, *Busan City*
-</span>
-<br>
-<span style="font-size:0.8em;">
-6. Yonsei IHEI Workstation, **Impact Solution Award** `2021`, *IHEI Yonsei*
-</span>
-<br>
-<span style="font-size:0.8em;">
-7. [KU Medical Hackathon](http://biosku.konkuk.ac.kr/medical/main/main.php), **Excellence Prize** `2020`, *Konkuk Univ. Hospital*
-</span>
-<br>
-<span style="font-size:0.8em;">
-8. [EDISON Coptuper Aided Design Competition](https://cfd.edison.re.kr/web/challenge/10th_design), **Top 8** `2020`, *K-MOOC*
-</span>
-<br>
-<span style="font-size:0.8em;">
-9. IHEI Summer Workstation - ACUOUS, **Excellence Award** `2020`, *IHEI Yonsei*
-</span>
-<br>
-<span style="font-size:0.8em;">
-YonseiXNexon Creative Platform, **Excellence Prize** `2019`, *RC committee*
+    1. [National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*
+    <span style="color:#2a5db8">[Grand Prize granted by the Minister of Science and ICT]</span><br>
+    2. [Second Autonomous Robot Racing Competetion](http://m.irobotnews.com/news/articleView.html?idxno=30037), **Grand Prize** `2022`, *Korea Robot Society*<br>
+    3. IHEI Show Off Festa2, **Best Choice Award** `2021`, *IHEI Yonsei*<br>
+    4. [Hanium Competition](http://www.hanium.or.kr/), **Selection** `2021`, *Federation of Korea Information Industries*<br>
+    5. [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239), **Excellence Prize** `2021`, *Busan City*<br>
+    6. Yonsei IHEI Workstation, **Impact Solution Award** `2021`, *IHEI Yonsei*<br>
+    7. [KU Medical Hackathon](http://biosku.konkuk.ac.kr/medical/main/main.php), **Excellence Prize** `2020`, *Konkuk Univ. Hospital*<br>
+    8. [EDISON Coptuper Aided Design Competition](https://cfd.edison.re.kr/web/challenge/10th_design), **Top 8** `2020`, *K-MOOC*<br>
+    9. IHEI Summer Workstation - ACUOUS, **Excellence Award** `2020`, *IHEI Yonsei*<br>
+    10. YonseiXNexon Creative Platform, **Excellence Prize** `2019`, *RC committee*
 </span>
 
 ---
