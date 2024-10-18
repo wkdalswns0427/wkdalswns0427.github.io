@@ -144,7 +144,6 @@ You can reach out to me with the email address below. Thank You!<br>
 <br>
 
 ### Skill
-<br>
 <span style="font-size:0.8em;">
     **Programming Languages:** Python, C, C++, MATLAB, Javascript <br>
     **Frameworks/Tools:** ROS1&2, Docker, IsaacGym, MuJoCo, PyTorch, FastAPI, Solidworks <br>
