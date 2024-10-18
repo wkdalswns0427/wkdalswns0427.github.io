@@ -70,8 +70,6 @@ You can reach out to me with the email address below. Thank You!<br>
     - Developed an effective cardiovascular micro-stent design
 </span>
 
-Summary Image to be displayed...
-
 > <span style="font-size:0.8em;">📌 More details on [Research&Projects](/rnp/) page!! </span>
 
 ---
@@ -106,7 +104,6 @@ Summary Image to be displayed...
 <br>
 > <span style="font-size:0.8em;">📌 More details on [Work](/work/) page!! </span>
 
----
 ### Awards&Honors
 <span style="font-size:0.8em;">
     1. [National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*
@@ -122,7 +119,6 @@ Summary Image to be displayed...
     10. YonseiXNexon Creative Platform, **Excellence Prize** `2019`, *RC committee*
 </span>
 
----
 ### Publications, Patents, and SW Copyrights
 **Publications**
 <br>
@@ -147,12 +143,11 @@ Summary Image to be displayed...
 </span>
 <br>
 
----
-**Skill**
+### Skill
 <br>
 <span style="font-size:0.8em;">
     **Programming Languages:** Python, C, C++, MATLAB, Javascript <br>
-    **Frameworks/Tools:** ROS1&2, Docker, IsaacGym, PyTorch, FastAPI, MySQL, Solidworks <br>
+    **Frameworks/Tools:** ROS1&2, Docker, IsaacGym, MuJoCo, PyTorch, FastAPI, Solidworks <br>
     **Hardware:** Jetson Xavier, Jetson Nano, RaspberryPi, Arduino, ESP32, STM32, Bolt10, ScoutMini, WeGoERP42 <br>
     **Languages:** Korean (Native), English (Fluent, TOEFL 103 / personal best 111) 
 </span>
