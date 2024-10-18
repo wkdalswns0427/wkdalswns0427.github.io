@@ -17,11 +17,10 @@ toc_sticky: true
 <br><span style="font-size:0.9em;">**Below are some other motions made during training**</span>
 <br><span style="font-size:0.8em;">**Crouched Walking**</span><br>
 ![gif](/assets/images/walking_crouch.gif){: width="450" height="450" .align-center}
-<br>
 <br><span style="font-size:0.8em;">**Swing Walking**</span><br>
 ![gif](/assets/images/bolt6_swing.gif){: width="450" height="450" .align-center}
 <br>
-<br><span style="font-size:0.8em;">Poster Presentation at SNU GSCST(2024.08.29)</span><br>
+<br><span style="font-size:0.9em;">**Poster Presentation at SNU GSCST(2024.08.29)**</span><br>
 ![image](/assets/images/dyros_poster.png)( .align-center)
 
 This page will be updated as my research proceeds.

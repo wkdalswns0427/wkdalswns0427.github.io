@@ -21,7 +21,7 @@ My research interest is built around using control theory for robots and autonom
 <br><span style="font-size:0.8em;">
 I am looking to pursue graduate studies in the U.S. Take a look around my website for more detailed information about me and I am always open for any kinds of questions.
 You can reach out to me with the email address below. Thank You!<br>
-[<span style="color:#4993FE">[If you're too busy to look around..]</span>](/assets/pdf/CV_for_site.pdf) | [[📧<span style="color:#4993FE">Mail</span>]](mailto:wkdalswns0427@yonsei.ac.kr)
+[[<span style="color:#4993FE">If you're too busy to look around..</span>]](/assets/pdf/Curriculum_Vitae_Minjun.pdf) | [[📧<span style="color:#4993FE">Mail</span>]](mailto:wkdalswns0427@yonsei.ac.kr)
 </span>
 
 ### Education
