@@ -4,25 +4,27 @@ title: "Bipedal Locomotion"
 toc: false
 toc_sticky: true
 ---
-![image](/assets/images/Poster.jpg)
-<br>
 <span style="font-size:0.8em;">
     I worked on reinforcement learning based bipedal robot locomotion with Bolt10 model. Main task is to configure profound policy that applies well on real world robot.
     <br> State-Estimator Multi Layer Perceptron was concurrently trained to perform adaptive locomotion on alien terrains. The framework is as Figure below.
     <br>![image](/assets/images/NetworkStructure.png){: width="450" height="450" }
-    <br>Simulation and learning is conducted on IsaacGym(NVIDIA) framework with cuda12.2. using RL framework rl_games.
+    <br>Simulation and learning is conducted on IsaacGym(NVIDIA) framework with cuda12.2. using RL framework rsl-rl. Sim2Sim vertification was done on MuJoCo. Simultaneous training of state estimator has shown improvements on Sim2Sim performance on policy training. I intend to implement trained policies on real Bolt6 robot.
 </span>
 
-<br><span style="font-size:0.8em;">**Walking**</span><br>
+<br><span style="font-size:0.8em;">**Walking in IsaacGym Env**</span><br>
 ![gif](/assets/images/walking_bolt6.gif){: width="450" height="450" }
-<br><span style="font-size:0.8em;">**Bipedal Balancing**</span><br>
-![gif](/assets/images/walking_stand.gif){: width="450" height="450" }
+<br><span style="font-size:0.8em;">**Walking in MuJoCo Env**</span><br>
+![gif](/assets/images/mujoco_walk_well.gif){: width="450" height="450" }
+
+
+<br><span style="font-size:0.8em;"> Below are some other motions made during training</span>
 <br><span style="font-size:0.8em;">**Crouched Walking**</span><br>
 ![gif](/assets/images/walking_crouch.gif){: width="450" height="450" }
 <br>
-
-<span style="font-size:0.8em;">
-    Although I succeeded simulation of th e robot locomotion in legged_gym and rsl_rl environment, progress on implementing the task to rl_games was lagging. So I switched to Bolt6 model and am working on Sim2Real implementation at this moment.
-</span>
+<br><span style="font-size:0.8em;">**Swing Walking**</span><br>
+![gif](/assets/images/bolt6_swing.gif){: width="450" height="450" }
 <br>
+<br><span style="font-size:0.8em;">Poster Presentation at SNU GSCST(2024.08.29)</span><br>
+![image](/assets/images/dyros_poster.png)
+
 This page will be updated as my research proceeds.
