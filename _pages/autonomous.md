@@ -8,7 +8,7 @@ toc_label: "Projects"
 ### Autonomous Robot Racing Competetion
 <span style="font-size:0.8em;">
     I participated in Yonsei Univ. for the competition as a member of localization team.<br>
-    <span style="color:#4993FE">Localization(my role) </span>: developed pre-localization package that fuses orientation and position data from two different IMUs and a GPS sensor. Took part in State Prediction based control input delay compensations method development.
+    <span style="color:#2a5db8">Localization(my role) </span>: developed pre-localization package that fuses orientation and position data from two different IMUs and a GPS sensor. Took part in State Prediction based control input delay compensations method development.
 </span>
 <div style="text-align: center; font-weight: bold;font-size:0.75em;">
     State Prediction based control input delay compensations for autonomous driving systems

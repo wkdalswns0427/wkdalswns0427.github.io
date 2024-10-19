@@ -20,7 +20,6 @@ toc_label: "Achievements"
     10. YonseiXNexon Creative Platform, **Excellence Prize** `2019`, *RC committee*
 </span>
 
----
 ### Publications, Patents, and SW Copyrights
 **Publications**
 <br>
@@ -45,7 +44,7 @@ toc_label: "Achievements"
     1. **Minjun Chang**, Guiju Choi, Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking",  C-2021-050308
 </span>
 <br>
----
+
 ### Licences
 <span style="font-size:0.8em;">
 **Engineer Information Processing**

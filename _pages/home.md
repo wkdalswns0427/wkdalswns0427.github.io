@@ -69,10 +69,8 @@ You can reach out to me with the email address below. Thank You!<br>
 <span style="font-size:0.75em;">
     - Developed an effective cardiovascular micro-stent design
 </span>
-
 > <span style="font-size:0.8em;">📌 More details on [Research&Projects](/rnp/) page!! </span>
 
----
 ### Work Experience
 <span style="font-size:0.8em;">
 <span style="color:#4993FE">2024.04 - 2024.06  | </span>
