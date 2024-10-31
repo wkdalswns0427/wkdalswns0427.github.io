@@ -41,7 +41,7 @@ toc_label: "Achievements"
 **Software Copyrights**
 <br>
 <span style="font-size:0.8em;">
-    1. **Minjun Chang**, Guiju Choi, Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking",  C-2021-050308
+    1. **Minjun Chang**, Guiju Choi, Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking",  C-2024-039138
 </span>
 <br>
 
