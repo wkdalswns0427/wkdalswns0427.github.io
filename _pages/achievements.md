@@ -25,7 +25,7 @@ toc_label: "Achievements"
 <br>
 <span style="font-size:0.8em;">
     1. Hyeongwoo Nam*, Seoyeon Choi*, **Minjun Chang***, Joonho Yang*, Jaehyeon Lim, Jongeun Choi, “State prediction based control input delay compensation for autonomous driving systems ”, The 18th Korea Robotics Society Annual Conference (KRoC 2023, Feb. 15-18, 2023)     *equal contribution<br>
-    2. W.J. Kim, H.J. Park, Minjun Chang, M.E. Cho, H.J.Kim, Dae-eun Kim*, “Development of Auxiliary Cart for Assembly Operations”, Trans. Korean Soc. Mech. Eng.(C), Vol. 24 (under prosecution)
+    2. **Minjun Chang**, Jaeyong Shin, Jaehueng Park*, “Simultaneous Training of State Estimator and Symmetry Configuration for Bipedal Locomotion”, The 20th Korea Robotics Society Annual Conference (KRoC 2025, Poster Presentation, In preparation)<br>
 </span>
 
 **Patents**

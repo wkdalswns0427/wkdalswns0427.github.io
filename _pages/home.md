@@ -121,7 +121,8 @@ You can reach out to me with the email address below. Thank You!<br>
 **Publications**
 <br>
 <span style="font-size:0.8em;">
-    1. Hyeongwoo Nam*, Seoyeon Choi*, **Minjun Chang***, Joonho Yang*, Jaehyeon Lim, Jongeun Choi, “State prediction based control input delay compensation for autonomous driving systems ”, The 18th Korea Robotics Society Annual Conference (KRoC 2023, Feb. 15-18, 2023)     *equal contribution
+    1. Hyeongwoo Nam*, Seoyeon Choi*, **Minjun Chang***, Joonho Yang*, Jaehyeon Lim, Jongeun Choi, “State prediction based control input delay compensation for autonomous driving systems ”, The 18th Korea Robotics Society Annual Conference (KRoC 2023, Feb. 15-18, 2023)     *equal contribution<br>
+    2. **Minjun Chang**, Jaeyong Shin, Jaehueng Park*, “Simultaneous Training of State Estimator and Symmetry Configuration for Bipedal Locomotion”, The 20th Korea Robotics Society Annual Conference (KRoC 2025, Poster Presentation, In preparation)
 </span>
 
 **Patents**

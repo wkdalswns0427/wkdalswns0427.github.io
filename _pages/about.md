@@ -73,7 +73,7 @@ Summary Image to be displayed...
 </span>
 <br>
 <span style="font-size:0.8em;">
-    2. Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Human Following Manufacture Assistant Robotic Platform", Korea (on preparation) *equal contribution
+    2. **Minjun Chang**, Jaeyong Shin, Jaehueng Park*, “Simultaneous Training of State Estimator and Symmetry Configuration for Bipedal Locomotion”, The 20th Korea Robotics Society Annual Conference (KRoC 2025, Poster Presentation, In preparation)
 </span>
 
 **Software Copyrights**
