@@ -35,7 +35,7 @@ You can reach out to me with the email address below. Thank You!<br>
 
 ### Research Experiences
 <span style="font-size:0.8em;">
-<span style="color:#4993FE">2024.06 - Present  | </span>
+<span style="color:#4993FE">2024.06 - 2024.12  | </span>
 **[Dynamic Robotic Systems Laboratory](http://dyros.snu.ac.kr/)**, Seoul National University
 </span>
 <br>
@@ -43,7 +43,7 @@ You can reach out to me with the email address below. Thank You!<br>
 <br>
 <span style="font-size:0.75em;">
     - Reinforcement Learning based bipedal locomotion<br>
-    - [Simultaneous Training of Control Policy and State Estimation with Symmetry Configuration for Bipedal Locomotion](/rnp/bl/)
+    - [Robust Symmetric Bipedal Locomotion Development via Simultaneous State Estimator Neural Network Training](/rnp/bl/)
     <br>
 </span>
 <span style="font-size:0.8em;">
@@ -106,7 +106,7 @@ You can reach out to me with the email address below. Thank You!<br>
 <span style="font-size:0.8em;">
     1. [National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*
     <span style="color:#2a5db8">[Grand Prize granted by the Minister of Science and ICT]</span><br>
-    2. [Second Autonomous Robot Racing Competetion](http://m.irobotnews.com/news/articleView.html?idxno=30037), **Grand Prize** `2022`, *Korea Robot Society*<br>
+    2. [Autonomous Robot Racing Competetion, Second Match 2022](http://m.irobotnews.com/news/articleView.html?idxno=30037), **Grand Prize** `2022`, *Korea Robot Society*<br>
     3. IHEI Show Off Festa2, **Best Choice Award** `2021`, *IHEI Yonsei*<br>
     4. [Hanium Competition](http://www.hanium.or.kr/), **Selection** `2021`, *Federation of Korea Information Industries*<br>
     5. [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239), **Excellence Prize** `2021`, *Busan City*<br>
@@ -122,7 +122,8 @@ You can reach out to me with the email address below. Thank You!<br>
 <br>
 <span style="font-size:0.8em;">
     1. Hyeongwoo Nam*, Seoyeon Choi*, **Minjun Chang***, Joonho Yang*, Jaehyeon Lim, Jongeun Choi, “State prediction based control input delay compensation for autonomous driving systems ”, The 18th Korea Robotics Society Annual Conference (KRoC 2023, Feb. 15-18, 2023)     *equal contribution<br>
-    2. **Minjun Chang**, Jaeyong Shin, Jaehueng Park*, “Simultaneous Training of State Estimator and Symmetry Configuration for Bipedal Locomotion”, The 20th Korea Robotics Society Annual Conference (KRoC 2025, Poster Presentation, In preparation)
+    > Oral presentation in a special session, “Autonomous Driving Robot Racing Technics”<br>
+    2. **Minjun Chang**, Jaeyong Shin, Jaehueng Park*, “Robust Symmetric Bipedal Locomotion Development via Simultaneous State Estimator Neural Network Training”, The 20th Korea Robotics Society Annual Conference (KRoC 2025, Poster Presentation, Under Review)
 </span>
 
 **Patents**
@@ -132,13 +133,13 @@ You can reach out to me with the email address below. Thank You!<br>
 </span>
 <br>
 <span style="font-size:0.8em;">
-    2. Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Human Following Manufacture Assistant Robotic Platform", Korea (on preparation) *equal contribution
+    2. Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Driving Auxiliary Cart Robot for Assembly Process", Korea (on preparation) *equal contribution
 </span>
 
 **Software Copyrights**
 <br>
 <span style="font-size:0.8em;">
-    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792 (registered)
+    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", C-2024-039138 (registered)
 </span>
 <br>
 
@@ -147,5 +148,5 @@ You can reach out to me with the email address below. Thank You!<br>
     **Programming Languages:** Python, C, C++, MATLAB, Javascript <br>
     **Frameworks/Tools:** ROS1&2, Docker, IsaacGym, MuJoCo, PyTorch, FastAPI, Solidworks <br>
     **Hardware:** Jetson Xavier, Jetson Nano, RaspberryPi, Arduino, ESP32, STM32, Bolt10, ScoutMini, WeGoERP42 <br>
-    **Languages:** Korean (Native), English (Fluent, TOEFL 103 / personal best 111) 
+    **Languages:** Korean (Native), English (Fluent, TOEFL 108 / personal best 111) 
 </span>
