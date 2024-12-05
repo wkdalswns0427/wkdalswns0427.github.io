@@ -10,9 +10,9 @@ toc_sticky: true
     <br>Simulation and learning is conducted on IsaacGym(NVIDIA) framework with cuda12.2. using RL framework rsl-rl. Sim2Sim vertification was done on MuJoCo. Simultaneous training of state estimator has shown improvements on Sim2Sim performance on policy training. I intend to implement trained policies on real Bolt6 robot.
 </span>
 <br><span style="font-size:0.8em;">**Walking in IsaacGym Env**</span><br>
-![gif](/assets/images/walking_bolt6.gif){: width="450" height="450"  .align-center}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gF4Cx_plCgI?si=yOIdqSnkE4pdLtKp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><span style="font-size:0.8em;">**Walking in MuJoCo Env**</span><br>
-![gif](/assets/images/mujoco_walk_well.gif){: width="450" height="450"  .align-center}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKqpyepDTVs?si=WnQeL3yO04mTHI_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br><span style="font-size:0.9em;">**Below are some other motions made during training**</span>
 <br><span style="font-size:0.8em;">**Crouched Walking**</span><br>
