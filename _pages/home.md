@@ -11,7 +11,8 @@ hidden: true
 
 ![image](/assets/images/profile3.jpg){: width="330" height="330" .align-left}
 <span style="font-size:0.8em;">
-My name is Minjun Chang. I am an undergraduate senior in Mechanical Engineering at Yonsei University. I am currently working as a research intern at [Dynamic Robotic Systems Lab](http://dyros.snu.ac.kr/) at Seoul National University.
+My name is Minjun Chang. I am an undergraduate senior in Mechanical Engineering at Yonsei University. I was a research intern at [Dynamic Robotic Systems Lab](http://dyros.snu.ac.kr/) at Seoul National University until December 2024. I started a new position as a *satelite software engineer* at **[Hanhwa Systems(Defense)](https://www.hanwhasystems.com/en/business/defense/space/space_index.do)** since January 2025.
+I was also selected as a **[Next Generation Engineer](https://www.ipesk.or.kr/v1menubiz)** by the Institute for Promotion of Engineering and Science for Korea (IPESK).
 </span>
 <br>
 <br><span style="font-size:0.8em;">
@@ -73,6 +74,13 @@ You can reach out to me with the email address below. Thank You!<br>
 
 ### Work Experience
 <span style="font-size:0.8em;">
+<span style="color:#4993FE">2025.01 - Present  | </span>
+**[Hanhwa Systems(Defense)](https://www.hanwhasystems.com/en/business/defense/space.do)**, Seoul
+</span>
+<br>
+<span style="font-size:0.7em;">**Robotics Engineer(Intern)**</span>
+
+<span style="font-size:0.8em;">
 <span style="color:#4993FE">2024.04 - 2024.06  | </span>
 **[GoLe Robotics](https://golerobotics.com)**, Seoul
 </span>
@@ -133,7 +141,7 @@ You can reach out to me with the email address below. Thank You!<br>
 </span>
 <br>
 <span style="font-size:0.8em;">
-    2. Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Driving Auxiliary Cart Robot for Assembly Process", Korea (on preparation) *equal contribution
+    2. *Minjun Chang**, Wonjun Kim, Hyunjin Park, * Meedum Cho*, Hyunjun Kim, "AUTONOMOUS DRIVING AUXILLARY CART ROBOT FOR ASSEMBLY PROCESS" KR 10-2024-0177135) (under prosecution)
 </span>
 
 **Software Copyrights**

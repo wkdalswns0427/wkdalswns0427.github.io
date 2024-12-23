@@ -18,7 +18,7 @@ toc_label: "Robots"
 <span style="font-size:0.8em;">
     <br>**Awards :** [National ICT Smart Device Competetion](https://www.msit.go.kr/bbs/view.do;jsessionid=ZaPcdY6GgbWARVJjBE6fAqAH6JZcs2Th5xDDs8o6.AP_msit_1?sCode=user&mPid=238&mId=113&bbsSeqNo=94&nttSeqNo=3184856), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*
     <span style="color:#2a5db8">[Grand Prize granted by Minister of Science and ICT]</span>
-    <br> **Patent :** Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "Autonomous Human Following Manufacture Assistant Robotic Platform", Korea (on preparation) *equal contribution
+    <br> **Patent :** Wonjun Kim*, Hyunjin Park*, **Minjun Chang***, Meedum Cho, Hyunjun Kim*, "AUTONOMOUS DRIVING AUXILLARY CART ROBOT FOR ASSEMBLY PROCESS", Korea (KR 1020240177135) *equal contribution
 </span>
 
 ### SAJOGI, a Spot Micro

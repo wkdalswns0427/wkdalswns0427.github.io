@@ -65,6 +65,10 @@ Summary Image to be displayed...
 <span style="font-size:0.8em;">
     1. Hyeongwoo Nam*, Seoyeon Choi*, **Minjun Chang***, Joonho Yang*, Jaehyeon Lim, Jongeun Choi, “State prediction based control input delay compensation for autonomous driving systems ”, The 18th Korea Robotics Society Annual Conference (KRoC 2023, Feb. 15-18, 2023)     *equal contribution
 </span>
+<br>
+<span style="font-size:0.8em;">
+    2. **Minjun Chang**, Jaeyong Shin, Jaehueng Park*, “Simultaneous Training of State Estimator and Symmetry Configuration for Bipedal Locomotion”, The 20th Korea Robotics Society Annual Conference (KRoC 2025, Poster Presentation, In preparation)
+</span>
 
 **Patents**
 <br>
@@ -73,13 +77,13 @@ Summary Image to be displayed...
 </span>
 <br>
 <span style="font-size:0.8em;">
-    2. **Minjun Chang**, Jaeyong Shin, Jaehueng Park*, “Simultaneous Training of State Estimator and Symmetry Configuration for Bipedal Locomotion”, The 20th Korea Robotics Society Annual Conference (KRoC 2025, Poster Presentation, In preparation)
+    2. *Minjun Chang**, Wonjun Kim, Hyunjin Park, * Meedum Cho*, Hyunjun Kim, "AUTONOMOUS DRIVING AUXILLARY CART ROBOT FOR ASSEMBLY PROCESS" KR 10-2024-0177135) (under prosecution)
 </span>
 
 **Software Copyrights**
 <br>
 <span style="font-size:0.8em;">
-    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", KR 10-2020-0176792 (registered)
+    1. **Minjun Chang**, Guiju Choi Jungyoon Byun, Dongha Kim, "Eye Tuner: Media Literacy Program based on Pupil Tracking", C-2024-039138 (registered)
 </span>
 <br>
 
