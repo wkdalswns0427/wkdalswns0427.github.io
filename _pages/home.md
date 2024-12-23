@@ -78,7 +78,7 @@ You can reach out to me with the email address below. Thank You!<br>
 **[Hanhwa Systems(Defense)](https://www.hanwhasystems.com/en/business/defense/space.do)**, Seoul
 </span>
 <br>
-<span style="font-size:0.7em;">**Robotics Engineer(Intern)**</span>
+<span style="font-size:0.7em;">**Software Engineer**</span>
 
 <span style="font-size:0.8em;">
 <span style="color:#4993FE">2024.04 - 2024.06  | </span>
@@ -113,8 +113,8 @@ You can reach out to me with the email address below. Thank You!<br>
 ### Awards&Honors
 <span style="font-size:0.8em;">
     1. [National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*
-    <span style="color:#2a5db8">[Grand Prize granted by the Minister of Science and ICT]</span><br>
-    2. [Autonomous Robot Racing Competetion, Second Match 2022](http://m.irobotnews.com/news/articleView.html?idxno=30037), **Grand Prize** `2022`, *Korea Robot Society*<br>
+    <span style="color:#2a5db8">[granted by the Minister of Science and ICT]</span><br>
+    2. [Autonomous Robot Racing Competetion, Second Match 2022](http://m.irobotnews.com/news/articleView.html?idxno=30037), **Grand Prize(1st place)** `2022`, *Korea Robot Society*<br>
     3. IHEI Show Off Festa2, **Best Choice Award** `2021`, *IHEI Yonsei*<br>
     4. [Hanium Competition](http://www.hanium.or.kr/), **Selection** `2021`, *Federation of Korea Information Industries*<br>
     5. [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239), **Excellence Prize** `2021`, *Busan City*<br>
