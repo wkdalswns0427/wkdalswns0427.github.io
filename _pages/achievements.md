@@ -36,7 +36,7 @@ toc_label: "Achievements"
 </span>
 <br>
 <span style="font-size:0.8em;">
-    2. *Minjun Chang**, Wonjun Kim, Hyunjin Park, * Meedum Cho*, Hyunjun Kim, "AUTONOMOUS DRIVING AUXILLARY CART ROBOT FOR ASSEMBLY PROCESS" KR 10-2024-0177135) (under prosecution)
+    2. **Minjun Chang**, Wonjun Kim, Hyunjin Park, Meedum Cho, Hyunjun Kim, "AUTONOMOUS DRIVING AUXILLARY CART ROBOT FOR ASSEMBLY PROCESS" KR 10-2024-0177135) (under prosecution)
 </span>
 
 **Software Copyrights**
