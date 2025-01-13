@@ -14,6 +14,8 @@ toc_label: "Work Experiences"
 <br>
 <span style="font-size:0.8em;">- Small Synthetic Aperture Radar Satelite</span>
 <br>
+<span style="font-size:0.8em;">- ARM Cortex M7 Architecture and diverse peripheral communication programming</span>
+<br>
 
 ---
 ### [GoLe Robotics](https://golerobotics.com/)
