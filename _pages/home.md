@@ -11,7 +11,7 @@ hidden: true
 
 ![image](/assets/images/profile3.jpg){: width="330" height="330" .align-left}
 <span style="font-size:0.8em;">
-My name is Minjun Chang. I am an undergraduate senior in Mechanical Engineering at Yonsei University. I was a research intern at [Dynamic Robotic Systems Lab](http://dyros.snu.ac.kr/) at Seoul National University until December 2024. I started a new position as a *satelite software engineer* at **[Hanhwa Systems(Defense)](https://www.hanwhasystems.com/en/business/defense/space/space_index.do)** since January 2025.
+My name is Minjun Chang. I am an undergraduate senior in Mechanical Engineering at Yonsei University. I was a research intern at [Dynamic Robotic Systems Lab](http://dyros.snu.ac.kr/) at Seoul National University until December 2024. I started a new position as a *satelite software engineer* at **[Hanwha Systems(Defense)](https://www.hanwhasystems.com/en/business/defense/space/space_index.do)** since January 2025.
 I was also selected as a **[Next Generation Engineer](https://www.ipesk.or.kr/v1menubiz)** by the Institute for Promotion of Engineering and Science for Korea (IPESK).
 </span>
 <br>
@@ -75,10 +75,10 @@ You can reach out to me with the email address below. Thank You!<br>
 ### Work Experience
 <span style="font-size:0.8em;">
 <span style="color:#4993FE">2025.01 - Present  | </span>
-**[Hanhwa Systems(Defense)](https://www.hanwhasystems.com/en/business/defense/space.do)**, Seoul
+**[Hanwha Systems(Defense)](https://www.hanwhasystems.com/en/business/defense/space.do)**, Seoul
 </span>
 <br>
-<span style="font-size:0.7em;">**Software Engineer**</span>
+<span style="font-size:0.7em;">**Satelite Software Engineer**</span>
 
 <span style="font-size:0.8em;">
 <span style="color:#4993FE">2024.04 - 2024.06  | </span>

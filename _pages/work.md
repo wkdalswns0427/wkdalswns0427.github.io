@@ -5,6 +5,17 @@ toc: true
 toc_sticky: true
 toc_label: "Work Experiences"
 ---
+### [Hanwha Systems(Defense)](https://www.hanwhasystems.com/en/index.do)
+![image](/assets/images/hanwhasys.jpg){: width="150" height="150" .align-left}
+**Satelite SW Engineer, Junior Engineer** 
+<span style="font-size:0.7em;">(2025.01 ~ Present)</span>
+<br>
+<span style="font-size:0.8em;">- Embedded Software for Satelite Payload</span>
+<br>
+<span style="font-size:0.8em;">- Small Synthetic Aperture Radar Satelite</span>
+<br>
+
+---
 ### [GoLe Robotics](https://golerobotics.com/)
 ![image](/assets/images/golerobotics.png){: width="150" height="150" .align-left}
 **Robotics Engineer, Intern** 
@@ -16,7 +27,6 @@ toc_label: "Work Experiences"
 <br>
 <span style="font-size:0.8em;">- Robot controller package C++/Python Binding</span>
 <br>
-<!-- <br> -->
 
 ---
 ### [DRIMAES](https://drimaes.com/)
