@@ -11,7 +11,7 @@ hidden: true
 
 ![image](/assets/images/profile3.jpg){: width="330" height="330" .align-left}
 <span style="font-size:0.8em;">
-My name is Minjun Chang. I am an incoming Ph.D. student at the **[Robotics and Intelligent Construction Automation Laboratory(RICAL)](https://rical.ce.gatech.edu/)** at Georgia Institute of Technology. I am currwntly working as a *satellite software engineer* at **[Hanwha Systems(Space&Defense)](https://www.hanwhasystems.com/en/business/defense/space/space_index.do)**.<br>
+My name is Minjun Chang. I am an incoming Ph.D. student at the **[Robotics and Intelligent Construction Automation Laboratory(RICAL)](https://rical.ce.gatech.edu/)** at **Georgia Institute of Technology**. I am currwntly working as a *satellite software engineer* at **[Hanwha Systems(Space&Defense)](https://www.hanwhasystems.com/en/business/defense/space/space_index.do)**.<br>
 I received **Bachelor of Science in Mechanical Engineering** at Yonsei University, Republic of Korea.
 I was also selected as a **[Next Generation Engineer](https://www.ipesk.or.kr/v1menubiz)** by the Institute for Promotion of Engineering and Science for Korea (IPESK).
 </span>
@@ -21,19 +21,23 @@ My research interest is built around using control theory for robots and autonom
 </span>
 <br>
 <br><span style="font-size:0.8em;">
-I am looking to pursue graduate studies in the U.S. Take a look around my website for more detailed information about me and I am always open for any kinds of questions.
+Take a look around my website for more detailed information about me and I am always open for any kinds of questions.
 You can reach out to me with the email address below. Thank You!<br>
 [[<span style="color:#4993FE">If you're too busy to look around..</span>]](/assets/pdf/Curriculum_Vitae_Minjun.pdf) | [[📧<span style="color:#4993FE">Mail</span>]](mailto:wkdalswns0427@yonsei.ac.kr)
 </span>
 
 ### Education
+**Georgia Institute of Technology**, Atlanta, GA, United States of America
+<span style="font-size:0.8em;">
+<br><span style="color:#4993FE">2025 ~      | </span>**Ph.D.**, Civil Engineering, focus on Robotics in Contruction
+</span><br>
 **Yonsei University**, Seoul, Republic of Korea
 <span style="font-size:0.8em;">
-<br><span style="color:#4993FE">2019 - 2025 | </span>**BS**, Mechanical Engineering
+<br><span style="color:#4993FE">2019 - 2025 | </span>**B.S.**, Mechanical Engineering
 </span>
 
 ### Research Interest
-<span style="font-size:0.8em;">Motion Planning, Robotics, Locomotion, Marine, Autonomous Driving, Reinforcement Learning, Connectivity</span>
+<span style="font-size:0.8em;">Motion Planning, Robotics, Locomotion, Autonomous Driving, Reinforcement Learning, Connectivity</span>
 
 ### Research Experiences
 <span style="font-size:0.8em;">
