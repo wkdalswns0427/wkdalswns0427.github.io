@@ -46,7 +46,7 @@ toc_label: "Work Experiences"
 <br>
 
 ---
-### [ToysMyth](http://www.toysmyth.com/)
+### [ToysMyth(SIOT Infotech)](http://www.toysmyth.com/)
 ![image](/assets/images/toysmyth.jpg){: width="150" height="150" .align-left}
 **Embedded SW Engineer, Junior Engineer** 
 <span style="font-size:0.7em;">(2022.02 ~ 2022.10)</span>
