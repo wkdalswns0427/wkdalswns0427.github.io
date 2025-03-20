@@ -11,13 +11,14 @@ hidden: true
 
 ![image](/assets/images/profile3.jpg){: width="330" height="330" .align-left}
 <span style="font-size:0.8em;">
-My name is Minjun Chang. I am an incoming Ph.D. student at the **[Robotics and Intelligent Construction Automation Laboratory(RICAL)](https://rical.ce.gatech.edu/)** at **Georgia Institute of Technology**. I am currwntly working as a *satellite software engineer* at **[Hanwha Systems(Space&Defense)](https://www.hanwhasystems.com/en/business/defense/space/space_index.do)**.<br>
+My name is Minjun Chang.<br>
+ I am an incoming Ph.D. student at the **[Robotics and Intelligent Construction Automation Laboratory(RICAL)](https://rical.ce.gatech.edu/)** at **Georgia Institute of Technology**. I am currwntly working as a *satellite software engineer* at **[Hanwha Systems(Space&Defense)](https://www.hanwhasystems.com/en/business/defense/space/space_index.do)**.<br>
 I received **Bachelor of Science in Mechanical Engineering** at Yonsei University, Republic of Korea.
 I was also selected as a **[Next Generation Engineer](https://www.ipesk.or.kr/v1menubiz)** by the Institute for Promotion of Engineering and Science for Korea (IPESK).
 </span>
 <br>
 <br><span style="font-size:0.8em;">
-My research interest is built around using control theory for robots and autonomous driving systems as well as integrating different systems for single controller. Especially, I am interested in building safe and reliable automation in robotic applications in hazardous conditions. I am interested in planning and navigation of legged robots and autonomous vehicles. Also, I want to conduct a study using reinforcement learning and control theory to create natural movemement of robots in real world.
+My research interest is built around using control theory for robots as well as integrating different systems for single controller. Especially, I am interested in building safe and reliable automation in robotic applications in hazardous conditions. I am also interested in planning and navigation of legged robots and autonomous vehicles. I intend to conduct a study using reinforcement learning and control theory to create natural and applicable movemement of robots in real world.
 </span>
 <br>
 <br><span style="font-size:0.8em;">
@@ -49,8 +50,18 @@ You can reach out to me with the email address below. Thank You!<br>
 <br>
 <span style="font-size:0.75em;">
     - Reinforcement Learning based bipedal locomotion<br>
-    - [Robust Symmetric Bipedal Locomotion Development via Simultaneous State Estimator Neural Network Training](/rnp/bl/)
-    <br>
+    - [Robust Symmetric Bipedal Locomotion Development via Simultaneous State Estimator Neural Network Training](/rnp/bl/)<br>
+</span>
+<span style="font-size:0.8em;">
+<span style="color:#4993FE">2022.07 - 2023.01  | </span>
+**[Machine Learning and Control System Laboratory](https://mlcs.yonsei.ac.kr/)**, Yonsei University
+</span>
+<br>
+<span style="font-size:0.7em;">**Undergraduate Intern**, Supervisor : Professor Jongeun Choi</span>
+<br>
+<span style="font-size:0.75em;">
+    - Developed an enhanced localization algorithm with control input delay compensation <br>
+    - Participated as Localization team member for Autonomous Robot Racing Competition<br>
 </span>
 <span style="font-size:0.8em;">
 <span style="color:#4993FE">2020.07 - 2021.06  | </span>
@@ -80,7 +91,7 @@ You can reach out to me with the email address below. Thank You!<br>
 ### Work Experience
 <span style="font-size:0.8em;">
 <span style="color:#4993FE">2025.01 - Present  | </span>
-**[Hanwha Systems(Defense)](https://www.hanwhasystems.com/en/business/defense/space.do)**, Seoul
+**[Hanwha Systems(Space&Defense)](https://www.hanwhasystems.com/en/business/defense/space.do)**, Seoul
 </span>
 <br>
 <span style="font-size:0.7em;">**Satelite Software Engineer**</span>

@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "Work Experiences"
 ---
-### [Hanwha Systems(Defense)](https://www.hanwhasystems.com/en/index.do)
+### [Hanwha Systems(Space&Defense)](https://www.hanwhasystems.com/en/index.do)
 ![image](/assets/images/hanwhasys.jpg){: width="150" height="150" .align-left}
 **Satelite SW Engineer, Junior Engineer** 
 <span style="font-size:0.7em;">(2025.01 ~ Present)</span>
