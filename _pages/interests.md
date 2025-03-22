@@ -7,10 +7,10 @@ toc_label: "My Interests"
 ---
 ### Groups
 <span style="font-size:0.9em;">
-**RoboIn, Robotics Club(Yonsei Univ.)**, 2020.05 ~ <br>
+**RoboIn, Robotics Club(Yonsei Univ.)**, 2020.05 ~ 2025.02<br>
 </span>
 <span style="font-size:0.8em;">
-<span style="color:#2a5db8">2020.09 ~ 2023.02 |</span> Faculty<br>
+<span style="color:#2a5db8">2020.09 ~ 2025.02 |</span> Faculty<br>
 <span style="color:#2a5db8">2021.01 ~ 2021.08  |</span> Vice President<br>
 <span style="color:#2a5db8">2021.09 ~ 2022.08 |</span> President<br>
 </span>
@@ -24,7 +24,7 @@ I built various robots as a member of the club. SAJOGI, Drone, Hexapod and more.
 ![image](/assets/images/sjg.jpeg){: width="150" height="200" }
 
 <span style="font-size:0.9em;">
-**YAI, Yonsei Artificial Inteligence(Yonsei Univ.)**, 2022.01 ~ <br>
+**YAI, Yonsei Artificial Inteligence(Yonsei Univ.)**, 2022.01 ~ 2025.02 <br>
 </span>
 <span style="font-size:0.8em;">
     As much as I am interested in robotics, I am very aware of massive importance of AI in its development. As a memeber of YAI, I mmainly focus on studying **Reinforcement Learning** and **Robot Learning** while sharing knowledge with colleagus with different interests.<br>
@@ -34,7 +34,7 @@ I built various robots as a member of the club. SAJOGI, Drone, Hexapod and more.
 <br>
 
 <span style="font-size:0.9em;">
-**BitCrab, Embedded SW Club(Yonsei Univ.)**, 2024.03 ~ <br>
+**BitCrab, Embedded SW Club(Yonsei Univ.)**, 2024.03 ~ 2024.08<br>
 </span>
 <span style="font-size:0.8em;">
 After spending two years as embedded software engineer, I wanted to continue developing my skills on embedded software and electonics.<br>
