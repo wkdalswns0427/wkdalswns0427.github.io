@@ -12,8 +12,8 @@ hidden: true
 ![image](/assets/images/profile3.jpg){: width="330" height="330" .align-left}
 <span style="font-size:0.8em;">
 My name is Minjun Chang.<br>
- I am an incoming Ph.D. student at the **[Robotics and Intelligent Construction Automation Laboratory(RICAL)](https://rical.ce.gatech.edu/)** at **Georgia Institute of Technology**. I am currwntly working as a *satellite software engineer* at **[Hanwha Systems(Space&Defense)](https://www.hanwhasystems.com/en/business/defense/space/space_index.do)**.<br>
-I received **Bachelor of Science in Mechanical Engineering** at Yonsei University, Republic of Korea.
+ I am an incoming Ph.D. student at the **[Robotics and Intelligent Construction Automation Laboratory(RICAL)](https://rical.ce.gatech.edu/)** at **Georgia Institute of Technology**.<br>
+I received **Bachelor of Science in Mechanical Engineering** at **Yonsei University**, Republic of Korea.
 I was also selected as a **[Next Generation Engineer](https://www.ipesk.or.kr/v1menubiz)** by the Institute for Promotion of Engineering and Science for Korea (IPESK).
 </span>
 <br>
@@ -90,7 +90,7 @@ You can reach out to me with the email address below. Thank You!<br>
 
 ### Work Experience
 <span style="font-size:0.8em;">
-<span style="color:#4993FE">2025.01 - Present  | </span>
+<span style="color:#4993FE">2025.01 - 2025.04  | </span>
 **[Hanwha Systems(Space&Defense)](https://www.hanwhasystems.com/en/business/defense/space.do)**, Seoul
 </span>
 <br>
