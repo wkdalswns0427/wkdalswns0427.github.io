@@ -26,8 +26,9 @@ toc_label: "Robots"
     Built a Spot Micro robot from scratch based on [open-source model](https://www.thingiverse.com/thing:3761340)
 </span>
 <br>
-![gif](/assets/images/sajogi1.gif){: width="250" height="250" }
-![gif](/assets/images/sajogi2.gif){: width="300" height="300" }
+![gif](/assets/images/sajogi1.gif){: width="250" height="300" }
+![gif](/assets/images/sajogi2.gif){: width="250" height="300" }
+![gif](/assets/images/sajogi3.gif){: width="250" height="300" }
 <br>
 <span style="font-size:0.8em;">
     My SPOT, **SAJOGI** is made with high-torque servo motors and has *RaspberryPi4B* for controller. I managed to make him walk(kind of)...!<br>
