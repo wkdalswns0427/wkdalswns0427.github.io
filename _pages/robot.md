@@ -26,9 +26,9 @@ toc_label: "Robots"
     Built a Spot Micro robot from scratch based on [open-source model](https://www.thingiverse.com/thing:3761340)
 </span>
 <br>
-![gif](/assets/images/sajogi1.gif){: width="250" height="300" }
-![gif](/assets/images/sajogi2.gif){: width="250" height="300" }
-![gif](/assets/images/sajogi3.gif){: width="250" height="300" }
+![gif](/assets/images/sajogi1.gif){: width="230" height="300" }
+![gif](/assets/images/sajogi2.gif){: width="230" height="300" }
+![gif](/assets/images/sajogi3.gif){: width="230" height="300" }
 <br>
 <span style="font-size:0.8em;">
     My SPOT, **SAJOGI** is made with high-torque servo motors and has *RaspberryPi4B* for controller. 12 motors are controlled by a PCA9685 driver with modified capacitor of 1200μF. He can walk forward and crouch! LiDAR implementation and SLAM experiment is ongoing. However he does have some structural defects due to unexpected motor size so I will need some time and money to make him function perfectly.
