@@ -31,8 +31,7 @@ toc_label: "Robots"
 ![gif](/assets/images/sajogi3.gif){: width="250" height="300" }
 <br>
 <span style="font-size:0.8em;">
-    My SPOT, **SAJOGI** is made with high-torque servo motors and has *RaspberryPi4B* for controller. I managed to make him walk(kind of)...!<br>
-    At that time my understanding on electric circuit was insufficient, which led to buzzing and unexpected movements. This experience led me to build experties on electric circuits and later was able to design full analog circuit with RC filters on CARTRASCHE.
+    My SPOT, **SAJOGI** is made with high-torque servo motors and has *RaspberryPi4B* for controller. 12 motors are controlled by a PCA9685 driver with modified capacitor of 1200μF. He can walk forward and crouch! LiDAR implementation and SLAM experiment is ongoing. However he does have some structural defects due to unexpected motor size so I will need some time and money to make him function perfectly.
     <br>**code repository -> [LINK](https://github.com/wkdalswns0427/SpotMicro_SAJOGI)**
 <br>
 

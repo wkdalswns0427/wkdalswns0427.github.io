@@ -11,10 +11,9 @@ hidden: true
 
 ![image](/assets/images/profile3.jpg){: width="330" height="330" .align-left}
 <span style="font-size:0.8em;">
-My name is Minjun Chang.<br>
- I am an incoming Ph.D. student at the **[Robotics and Intelligent Construction Automation Laboratory(RICAL)](https://rical.ce.gatech.edu/)** at **Georgia Institute of Technology**.<br>
-I received **Bachelor of Science in Mechanical Engineering** at **Yonsei University**, Republic of Korea.
-I was also selected as a **[Next Generation Engineer](https://www.ipesk.or.kr/v1menubiz)** by the Institute for Promotion of Engineering and Science for Korea (IPESK).
+Hi I am Minjun Chang. I am an incoming Ph.D. student at the **[Robotics and Intelligent Construction Automation Laboratory(RICAL)](https://rical.ce.gatech.edu/)** at **Georgia Institute of Technology**.<br>
+I received **B.S. in Mechanical Engineering** at **Yonsei University**, Republic of Korea.
+I was selected as a **[Next Generation Engineer](https://www.ipesk.or.kr/v1menubiz)** by the Institute for Promotion of Engineering and Science for Korea(IPESK).
 </span>
 <br>
 <br><span style="font-size:0.8em;">
