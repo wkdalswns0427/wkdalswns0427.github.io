@@ -13,7 +13,6 @@ hidden: true
 <span style="font-size:0.8em;">
 Hi I am Minjun Chang. I am an Ph.D. student at the **[Robotics and Intelligent Construction Automation Laboratory(RICAL)](https://rical.ce.gatech.edu/)** at **Georgia Institute of Technology**.<br>
 I received **B.S. in Mechanical Engineering** at **Yonsei University**, Republic of Korea.
-I was selected as a **[Next Generation Engineer](https://www.ipesk.or.kr/v1menubiz)** by the Institute for Promotion of Engineering and Science for Korea(IPESK).
 </span>
 <br>
 <br><span style="font-size:0.8em;">
@@ -125,7 +124,7 @@ You can reach out to me with the email address below. Thank You!<br>
 <br>
 > <span style="font-size:0.8em;">📌 More details on [Work](/work/) page!! </span>
 
-### Awards&Honors
+### Awards
 <span style="font-size:0.8em;">
     1. [National ICT Smart Device Competetion](https://www.digitalopenlab.or.kr/main/index.php), **Grand Prize(1st place)** `2024`, *Ministery of Science and ICT*
     <span style="color:#2a5db8">[granted by the Minister of Science and ICT]</span><br>
@@ -138,6 +137,12 @@ You can reach out to me with the email address below. Thank You!<br>
     8. [EDISON Coptuper Aided Design Competition](https://cfd.edison.re.kr/web/challenge/10th_design), **Top 8** `2020`, *K-MOOC*<br>
     9. IHEI Summer Workstation - ACUOUS, **Excellence Award** `2020`, *IHEI Yonsei*<br>
     10. YonseiXNexon Creative Platform, **Excellence Prize** `2019`, *RC committee*
+</span>
+
+### Honors
+<span style="font-size:0.8em;">
+    1. **Federico Stubbe Graduate Student Fellowship**, Georgia Institute of Technology 
+    2. **Next Generation Engineer**, Institute for Promotion of Engineering and Science of Korea 
 </span>
 
 ### Publications, Patents, and SW Copyrights
@@ -156,7 +161,7 @@ You can reach out to me with the email address below. Thank You!<br>
 </span>
 <br>
 <span style="font-size:0.8em;">
-    2. **Minjun Chang**, Wonjun Kim, Hyunjin Park, Meedum Cho, Hyunjun Kim, "AUTONOMOUS DRIVING AUXILLARY CART ROBOT FOR ASSEMBLY PROCESS" KR 10-2024-0177135) (under prosecution)
+    2. **Minjun Chang**, Wonjun Kim, Hyunjin Park, Meedum Cho, Hyunjun Kim, "AUTONOMOUS DRIVING AUXILLARY CART ROBOT FOR ASSEMBLY PROCESS" KR 10-2024-0177135, (under prosecution)
 </span>
 
 **Software Copyrights**
