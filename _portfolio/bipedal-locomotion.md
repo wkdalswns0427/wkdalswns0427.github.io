@@ -1,6 +1,6 @@
 ---
 title: "Bipedal Locomotion"
-excerpt: "RL-based bipedal locomotion on the Bolt10 model with simultaneous state-estimator training.<br/><img src='/images/NetworkStructure.png' width='300'>"
+excerpt: "<img src='/images/NetworkStructure.png' width='300'>"
 collection: portfolio
 ---
 

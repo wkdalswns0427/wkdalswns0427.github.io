@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Driving"
-excerpt: "Localization, delay compensation, and path planning for autonomous ground vehicles and construction robots.<br/><img src='/images/statepred.png' width='300'>"
+excerpt: "<img src='/images/statepred.png' width='300'>"
 collection: portfolio
 ---
 

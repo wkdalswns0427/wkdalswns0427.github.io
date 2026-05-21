@@ -1,6 +1,6 @@
 ---
 title: "Connected Systems"
-excerpt: "Embedded and IoT projects: BATTON battery-swap stations, Leafeon IoT, and Eye-Tuner.<br/><img src='/images/bss.png' width='300'>"
+excerpt: "<img src='/images/bss.png' width='300'>"
 collection: portfolio
 ---
 

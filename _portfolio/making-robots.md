@@ -1,6 +1,6 @@
 ---
 title: "Making Robots"
-excerpt: "Robots I built from scratch: Cartrasche, SAJOGI (Spot Micro), and BOLT6.<br/><img src='/images/sajogi1.gif' width='200'>"
+excerpt: "<img src='/images/sajogi1.gif' width='200'>"
 collection: portfolio
 ---
 
