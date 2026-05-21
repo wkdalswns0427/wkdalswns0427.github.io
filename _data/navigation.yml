@@ -1,24 +1,20 @@
-# main links
+# The following is the order of the links in the header of the website.
+
 main:
-  # - title: "About"
-  #   url: /about/
+  - title: "Research"
+    url: /research/
+
   - title: "Work"
     url: /work/
-  - title: "Research&Projects"
-    url: /rnp/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "Achievements"
     url: /achievements/
-  - title: "Interest"
-    url: /interests/
-  - title: "CV"
-    url: /resume/
 
-research:
-  - title: "Bipedal Locomtion"
-    url: /rnp/bl/
-  - title: "Making Robots"
-    url: /rnp/robot/
-  - title: "Autonomous Driving"
-    url: /rnp/ad/
-  - title: "Connected System"
-    url: /rnp/cs/
+  - title: "CV"
+    url: /cv/

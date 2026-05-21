@@ -1,9 +1,122 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
-search: false
 ---
 
-@charset "utf-8";
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv",
+
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands"
+;
+
+/* Custom: smaller, tighter typography across all pages */
+html { font-size: 14px; }
+
+/* Body text — slightly larger than headers' base; rem on headers below keeps them locked */
+.page__content,
+.page__content p,
+.page__content li {
+  font-size: 1.05em;
+  line-height: 1.45;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  margin-top: 1em;
+  margin-bottom: 0.4em;
+  line-height: 1.25;
+}
+
+/* Headers use rem so they don't grow with the body font-size above */
+h1 { font-size: 1.125rem; }
+h2 { font-size: 1rem; }
+h3 { font-size: 0.95rem; }
+h4, h5, h6 { font-size: 0.85rem; }
+
+.page__title { font-size: 1.5em; }
+.archive__item-title { font-size: 1em; }
+
+.page__content ul,
+.page__content ol { margin-top: 0.3em; margin-bottom: 0.3em; }
+.page__content li { margin-bottom: 0.15em; }
+.page__content p { margin-top: 0.3em; margin-bottom: 0.5em; }
+
+/* Float-clearing so floated images stop overflowing into the next section */
+.page__content hr { margin: 0.8em 0; clear: both; }
+.page__content h1, .page__content h2, .page__content h3 { clear: both; }
+
+/* Constrain inline image height so portraits/logos don't dominate a section */
+.page__content img.align-left,
+.page__content img.align-right { max-height: 110px; margin-bottom: 1em; }
+
+/* Publications list: keep each citation on its own row, with the auto-counter visible */
+.publication-list { padding-left: 1.6em; margin: 0.3em 0 1em; }
+.publication-list li { margin-bottom: 0.4em; }
+
+/* Snapshot slider: horizontal scroll, full images visible (no crop), snap-to-image */
+.snapshot-slider {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 10px;
+  margin: 0.5em 0 1em;
+  scrollbar-width: thin;
+}
+.snapshot-slider img {
+  flex: 0 0 auto;
+  width: 280px;
+  height: 200px;
+  object-fit: contain;
+  background: #f5f5f5;
+  border-radius: 4px;
+  scroll-snap-align: start;
+  display: block;
+}
+.snapshot-slider::-webkit-scrollbar { height: 8px; }
+.snapshot-slider::-webkit-scrollbar-thumb { background: #c7c7c7; border-radius: 4px; }
+.snapshot-slider::-webkit-scrollbar-track { background: transparent; }
+
+/* Reclaim the right-side empty column (academicpages reserves 2/12 of the grid for an
+   optional TOC; we don't use one, so let the main content extend into that space). */
+@media (min-width: 57.8125em) {
+  .page { padding-right: 2% !important; }
+}
