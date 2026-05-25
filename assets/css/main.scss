@@ -90,6 +90,12 @@ h4, h5, h6 { font-size: 0.85rem; }
 .publication-list { padding-left: 1.6em; margin: 0.3em 0 1em; }
 .publication-list li { margin-bottom: 0.4em; }
 
+/* Sidebar author block: slightly larger text under the profile photo */
+.sidebar .author__name { font-size: 1.1rem; }
+.sidebar .author__bio { font-size: 0.95rem; }
+.sidebar .author__urls li,
+.sidebar .author__desktop { font-size: 0.9rem; }
+
 /* Snapshot slider: horizontal scroll, full images visible (no crop), snap-to-image */
 .snapshot-slider {
   display: flex;
