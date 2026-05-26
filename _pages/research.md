@@ -26,11 +26,10 @@ Ph.D. Student (Co-advised) &nbsp;·&nbsp; 2025 -- present &nbsp;·&nbsp; Advisor
 ### Snapshots
 
 <div class="snapshot-slider">
-  <img src="/images/Factory.png" alt="Factory" />
-  <img src="/images/KruMi.png" alt="KruMi" />
-  <img src="/images/Foam.png" alt="Foam" />
-  <img src="/images/SLAM_Base.png" alt="SLAM Base" />
+  <img src="/images/260525_test.gif" alt="260525_test" />
   <img src="/images/locomotion.gif" alt="Locomotion" />
+  <img src="/images/Factory.png" alt="Factory" />
+  <img src="/images/SLAM_Base.png" alt="SLAM Base" />
 </div>
 
 ---
