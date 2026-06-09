@@ -27,8 +27,20 @@ toc_label: "Achievements"
   <li>YonseiXNexon Creative Platform, <b>Excellence Prize</b>, 2019, RC Committee.</li>
 </ol>
 
+## Patents
+
+{% assign patent_posts = site.publications | where: 'category', 'patents' | sort: 'date' %}
+{% assign patent_total = patent_posts.size %}
+{% assign patents_display = patent_posts | reverse %}
+<ol reversed start="{{ patent_total }}" class="publication-list">
+{% for post in patents_display %}<li>{{ post.citation }}</li>
+{% endfor %}
+</ol>
+
 ## Licenses
 
-- **Engineer Information Processing** &nbsp;·&nbsp; HRDK, No. 23202070834M.
-- **Pilot of Ultra-Light Vehicle** &nbsp;·&nbsp; Korea Transportation Safety Authority, No. 91-071285 &nbsp;·&nbsp; authorized drone pilot under 20 kg.
-- **Advanced Diver & Diver Propulsion Vehicle** &nbsp;·&nbsp; PADI, No. #710657 &nbsp;·&nbsp; authorized to dive 60 m underwater and drive a DPV.
+<ol reversed start="3" class="publication-list">
+  <li><b>Engineer Information Processing</b> &nbsp;&middot;&nbsp; HRDK, No. 23202070834M.</li>
+  <li><b>Pilot of Ultra-Light Vehicle</b> &nbsp;&middot;&nbsp; Korea Transportation Safety Authority, No. 91-071285 &nbsp;&middot;&nbsp; authorized drone pilot under 20 kg.</li>
+  <li><b>Advanced Diver &amp; Diver Propulsion Vehicle</b> &nbsp;&middot;&nbsp; PADI, No. #710657 &nbsp;&middot;&nbsp; authorized to dive 60 m underwater and drive a DPV.</li>
+</ol>
