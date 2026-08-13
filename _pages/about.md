@@ -16,6 +16,7 @@ My research interests focus on applying humanoid motion control to real-world fi
 Take a look around for more detailed information, and please feel free to reach out — I am always open to questions.
 
 [Download CV (PDF)](/assets/files/Curriculum_Vitae_Minjun.pdf){: .btn} &nbsp;
+[Download Resume (PDF)](/assets/files/MinJun_Resume.pdf){: .btn} &nbsp;
 
 Education
 ======
