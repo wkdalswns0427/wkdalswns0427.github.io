@@ -11,7 +11,7 @@ Hi, I am **Minjun Chang**.
 
 I am a Ph.D. student at the [RICAL](https://rical.ce.gatech.edu/) and [HARMONIC](https://harmoniclab.ce.gatech.edu/) group at the **Georgia Institute of Technology**. I received my **B.S. in Mechanical Engineering** from **Yonsei University**, South Korea.
 
-My research interests focus on applying humanoid motion control to real-world field environments, especially in construction and hazardous manufacturing settings. I am interested in developing robotic systems that can generate stable and natural motions while safely interacting with human workers in shared spaces. Through learning-based motion control and field-oriented system design, I aim to bridge the gap between laboratory-level humanoid research and practical deployment, contributing to safer and more efficient work environments through human-robot interaction.
+My research applies humanoid motion control to real field environments, primarily construction and hazardous manufacturing. I work on motion retargeting from worker demonstrations, and on what a demonstration should carry onto a robot built differently from a person. I also train reinforcement learning policies for tool-use and material-handling operations, and study how robots and workers share a workspace safely. My goal is to move humanoid research from laboratory demonstrations toward work a robot can sustain on site.
 
 Take a look around for more detailed information, and please feel free to reach out — I am always open to questions.
 
@@ -31,4 +31,10 @@ Humanoid Motion Control, Field Robotics, Human-Robot Interaction (HRI), Reinforc
 
 Highlights
 ======
-...under construction
+* **Federico Stubbe Graduate Student Fellowship**, Georgia Institute of Technology.
+* Humanoid motion retargeting for construction, presented at the **IROS 2026 Workshop on the Future of Construction**.
+* Wearable worker motion recognition and zone-level localization, published at **ISARC 2026**.
+* **Grand Prize (1st place)**, National ICT Smart Device Competition, 2024, Ministry of Science and ICT.
+* **Grand Prize (1st place)**, Autonomous Robot Racing Competition, 2022, Korea Robot Society.
+* Two Korean patents, on an assembly-process cart robot and a urinalysis monitoring system.
+* See [Achievements](/achievements/) and [Publications](/publications/) for the full record.

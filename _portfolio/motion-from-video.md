@@ -2,6 +2,7 @@
 title: "Worker Motion Transfer from Video"
 excerpt: "<img src='/images/learn_from_vid.gif' width='300'>"
 collection: portfolio
+order: 2
 ---
 
 I am building a pipeline that turns ordinary video of a worker into motion a humanoid can be trained on. The aim is a reusable library of construction operations collected without motion capture equipment on site.

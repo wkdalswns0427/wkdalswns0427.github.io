@@ -2,6 +2,7 @@
 title: "Connected Systems"
 excerpt: "<img src='/images/bss.png' width='300'>"
 collection: portfolio
+order: 5
 ---
 
 ## BSS (Battery Swap Station) — DRIMAES

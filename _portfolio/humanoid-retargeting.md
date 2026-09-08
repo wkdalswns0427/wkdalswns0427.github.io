@@ -1,8 +1,11 @@
 ---
 title: "Humanoid Motion Retargeting"
-excerpt: "<img src='/images/Factory.png' width='300'>"
+excerpt: "<img src='/images/RobotSpecificMotion.png' width='300'>"
 collection: portfolio
+order: 1
 ---
+
+![Robot-specific motion](/images/RobotSpecificMotion.png){: .align-center}
 
 I study what a construction worker's demonstrated motion should carry onto a humanoid. The demonstration gives the robot the task. It does not have to give the robot the worker's joint angles. All experiments run on an adult-sized Unitree H1-2.
 

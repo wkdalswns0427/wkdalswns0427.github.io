@@ -2,6 +2,7 @@
 title: "Bipedal Locomotion"
 excerpt: "<img src='/images/NetworkStructure.png' width='300'>"
 collection: portfolio
+order: 4
 ---
 
 I worked on reinforcement-learning-based bipedal robot locomotion with the Bolt10 model. The main task is to learn a robust policy that transfers well to the real world. A state-estimator MLP is concurrently trained to perform adaptive locomotion on unfamiliar terrain. The framework is shown below.

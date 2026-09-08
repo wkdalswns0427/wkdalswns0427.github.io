@@ -31,6 +31,7 @@ Ph.D. Student (Co-advised) &nbsp;·&nbsp; 2025 -- present &nbsp;·&nbsp; Advisor
 
 <div class="snapshot-slider">
   <img src="/images/learn_from_vid.gif" alt="learn_from_vid" />
+  <img src="/images/RobotSpecificMotion.png" alt="RSM" />
   <img src="/images/260525_test.gif" alt="260525_test" />
   <img src="/images/locomotion.gif" alt="Locomotion" />
   <img src="/images/Factory.png" alt="Factory" />

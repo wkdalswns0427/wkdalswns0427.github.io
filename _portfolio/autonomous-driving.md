@@ -2,6 +2,7 @@
 title: "Autonomous Driving"
 excerpt: "<img src='/images/statepred.png' width='300'>"
 collection: portfolio
+order: 3
 ---
 
 ## Autonomous Robot Racing Competition

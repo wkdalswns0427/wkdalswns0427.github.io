@@ -2,6 +2,7 @@
 title: "Making Robots"
 excerpt: "<img src='/images/sajogi1.gif' width='200'>"
 collection: portfolio
+order: 6
 ---
 
 ## CARTRASCHE
