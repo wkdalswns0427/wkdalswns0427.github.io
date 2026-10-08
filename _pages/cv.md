@@ -10,7 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Download as PDF](/assets/files/Curriculum_Vitae_Minjun.pdf){: .btn}
+[Download CV (PDF)](/assets/files/Curriculum_Vitae_Minjun.pdf){: .btn} &nbsp;
+[Download Resume (PDF)](/assets/files/MinJun_Resume.pdf){: .btn}
 
 Education
 ======
@@ -67,7 +68,7 @@ See the [Work](/work/) page for full details.
 {% assign total = category_posts.size %}
 {% assign display_order = category_posts | reverse %}
 <ol reversed start="{{ total }}" class="publication-list">
-{% for post in display_order %}<li>{{ post.citation }}</li>
+{% for post in display_order %}<li>{{ post.citation }}{% if post.paperurl %} <a href="{{ post.paperurl }}">[Paper]</a>{% endif %}</li>
 {% endfor %}
 </ol>
 {% endif %}
@@ -78,7 +79,7 @@ See the [Work](/work/) page for full details.
 {% assign display_order = sorted_posts | reverse %}
 <h2>Publications</h2><hr />
 <ol reversed start="{{ total }}" class="publication-list">
-{% for post in display_order %}<li>{{ post.citation }}</li>
+{% for post in display_order %}<li>{{ post.citation }}{% if post.paperurl %} <a href="{{ post.paperurl }}">[Paper]</a>{% endif %}</li>
 {% endfor %}
 </ol>
 {% endif %}

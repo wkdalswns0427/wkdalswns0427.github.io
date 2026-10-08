@@ -5,5 +5,6 @@ category: conferences
 permalink: /publication/2026-10-iros-ws-motion-transfer-humanoids
 date: 2026-09-27
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Workshop on the Future of Construction'
+paperurl: 'https://construction-robots.github.io/papers/iros2026_14.pdf'
 citation: '<b>Chang, M.</b>, Kim, T., Cho, Y., and Baek, F. (2026) &ldquo;Beyond Human-Derived Motion: Exploring Robot-Specific Execution for Construction Humanoids.&rdquo; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Workshop on the Future of Construction.'
 ---

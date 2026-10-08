@@ -20,7 +20,7 @@ author_profile: true
       {% assign display_order = category_posts | reverse %}
       <ol reversed start="{{ total }}" class="publication-list">
         {% for post in display_order %}
-          <li>{{ post.citation }}</li>
+          <li>{{ post.citation }}{% if post.paperurl %} <a href="{{ post.paperurl }}">[Paper]</a>{% endif %}</li>
         {% endfor %}
       </ol>
     {% endif %}
@@ -31,7 +31,7 @@ author_profile: true
   {% assign display_order = sorted_posts | reverse %}
   <ol reversed start="{{ total }}" class="publication-list">
     {% for post in display_order %}
-      <li>{{ post.citation }}</li>
+      <li>{{ post.citation }}{% if post.paperurl %} <a href="{{ post.paperurl }}">[Paper]</a>{% endif %}</li>
     {% endfor %}
   </ol>
 {% endif %}
