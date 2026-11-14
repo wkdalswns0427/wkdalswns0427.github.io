@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am **Minjun Chang**. 
 
-I am a Ph.D. student at the [RICAL](https://rical.ce.gatech.edu/) and [HARMONIC](https://harmoniclab.ce.gatech.edu/) group at the **Georgia Institute of Technology**. I received my **B.S. in Mechanical Engineering** from **Yonsei University**, South Korea.
+I am a M.S. student at the [RICAL](https://rical.ce.gatech.edu/) and [HARMONIC](https://harmoniclab.ce.gatech.edu/) group at the **Georgia Institute of Technology** expected to graduate in May 2027. I received my **B.S. in Mechanical Engineering** from **Yonsei University**, South Korea.
 
 My research applies humanoid motion control to real field environments, primarily construction and hazardous manufacturing. I work on motion retargeting from worker demonstrations, and on what a demonstration should carry onto a robot built differently from a person. I also train reinforcement learning policies for tool-use and material-handling operations, and study how robots and workers share a workspace safely. My goal is to move humanoid research from laboratory demonstrations toward work a robot can sustain on site.
 
@@ -21,13 +21,13 @@ Take a look around for more detailed information, and please feel free to reach 
 Education
 ======
 * **Georgia Institute of Technology**, Atlanta, GA, USA
-  * Ph.D., Civil Engineering, focus on Robotics in Construction (2025 -- present)
+  * M.S., Computational Science and Engineering, focus on Robotics and Automation (2025 -- present)
 * **Yonsei University**, Seoul, Republic of Korea
   * B.S., Mechanical Engineering (2019 -- 2025)
 
 Research Interests
 ======
-Humanoid Motion Control, Field Robotics, Human-Robot Interaction (HRI), Reinforcement Learning
+Humanoid Motion Control, Reincorcement Learning, Motion Retargeting, Field Robotics, Human-Robot Interaction (HRI)
 
 Highlights
 ======
