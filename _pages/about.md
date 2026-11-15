@@ -21,7 +21,7 @@ Take a look around for more detailed information, and please feel free to reach 
 Education
 ======
 * **Georgia Institute of Technology**, Atlanta, GA, USA
-  * M.S., Computational Science and Engineering, focus on Robotics and Automation (2025 -- present)
+  * M.S., Computational Science and Engineering, focus on Robotics (2025 -- 2027)
 * **Yonsei University**, Seoul, Republic of Korea
   * B.S., Mechanical Engineering (2019 -- 2025)
 
